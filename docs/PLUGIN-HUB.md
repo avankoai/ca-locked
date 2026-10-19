@@ -39,4 +39,6 @@ The memory-backend tests simulate configuration replacement and a separate reade
 
 Review notes: the dashboard uses the existing game interface group 717 locally. Explicit load-script execution disables packet sending; picking a task does not perform gameplay actions. The native interface and minimap orb should receive specific reviewer attention. Runtime catalogue entries come from the game; bundled dependency rules are only applied to matching entries. Changes to the game cache can require plugin updates.
 
-The source repository is public. Keep the submission as a draft until the cross-PC acceptance checks are complete.
+Submission: https://github.com/runelite/plugin-hub/pull/18957
+
+The author confirmed on 19 October 2026 that the development version works on the second PC after following the synchronization test instructions. Automated storage tests pass; they are separate from this user-reported practical check.

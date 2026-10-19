@@ -16,6 +16,8 @@ public final class ChallengeStoreTest {
   public void write(String key,String value){writes++;values.put(key,value);}
  }
  public static void main(String[] args){
+  DependencyRules.initialize(new com.google.gson.Gson());
+  KillCountRisk.initialize(new com.google.gson.Gson());
   Gson gson=new Gson();Memory data=new Memory();ChallengeStore first=new ChallengeStore(data,gson);
   Challenge a=first.load(data.current);a.challengeActive=true;a.active[0]=42;a.stored[0]=43;
   a.rerollSettingsInitialized=true;a.rulePack=Challenge.CA_RULES;a.rerollLimit=3;

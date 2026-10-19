@@ -8,9 +8,10 @@ import java.util.regex.*;
 final class KillCountRisk {
  static final class Rule {int id,total,minimum;String name,description,key;String[] aliases;}
  static final Map<Integer,Rule> RULES=new HashMap<>();
- static {
+ static void initialize(Gson gson){
+  RULES.clear();
   try(Reader reader=new InputStreamReader(KillCountRisk.class.getResourceAsStream("kill-count-rules.json"),StandardCharsets.UTF_8)){
-   for(Rule rule:new Gson().fromJson(reader,Rule[].class))RULES.put(rule.id,rule);
+   for(Rule rule:gson.fromJson(reader,Rule[].class))RULES.put(rule.id,rule);
   }catch(IOException e){throw new IllegalStateException(e);}
  }
  static String key(String name){return name.replaceAll("<[^>]*>","").trim().toLowerCase(Locale.ROOT).replaceFirst("^the ","");}

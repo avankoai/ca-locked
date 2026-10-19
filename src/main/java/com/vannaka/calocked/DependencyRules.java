@@ -12,11 +12,12 @@ final class DependencyRules {
  static final class Evidence {int prerequisite;String kind;
  }
  private static final Map<Integer,Entry> ENTRIES=new HashMap<>();
- static {
+ static void initialize(Gson gson){
+  ENTRIES.clear();
   InputStream stream=DependencyRules.class.getResourceAsStream("dependencies.json");
   if(stream==null)throw new IllegalStateException("Dependency catalogue is missing");
   try(Reader reader=new InputStreamReader(stream,StandardCharsets.UTF_8)){
-   for(Entry entry:new Gson().fromJson(reader,Entry[].class)){
+   for(Entry entry:gson.fromJson(reader,Entry[].class)){
     if(ENTRIES.put(entry.id,entry)!=null)throw new IllegalStateException("Duplicate dependency task");
    }
   }catch(IOException e){throw new IllegalStateException(e);}

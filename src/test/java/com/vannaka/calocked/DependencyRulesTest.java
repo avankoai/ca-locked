@@ -18,6 +18,8 @@ final class DependencyRulesTest {
  static boolean eligible(Challenge c,String name){Challenge.Task task=find(c,name);return c.pool(task.tier).contains(task);}
  static Challenge strict(){Challenge c=new Challenge();c.relaxedRules=false;return c;}
  public static void main(String[] args){
+  DependencyRules.initialize(new com.google.gson.Gson());
+  KillCountRisk.initialize(new com.google.gson.Gson());
   Challenge fresh=strict();fresh.sync(catalogue());
   check(DependencyRules.size()==655&&fresh.tasks.size()==655,"Every catalogue task has an audit entry");
   for(Challenge.Task t:fresh.tasks)check(DependencyRules.matches(t),"Reviewed metadata matches task "+t.id);

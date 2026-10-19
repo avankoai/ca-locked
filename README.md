@@ -4,7 +4,7 @@ A RuneLite combat achievement task picker. Choose a challenge, pick a task and w
 
 ## Availability
 
-Prepared for a RuneLite Plugin Hub submission. **Not yet listed or approved.** Once accepted, players can install CA Locked through RuneLite's Plugin Hub on Windows, macOS or Linux. Installing a development JAR is not the normal player installation flow.
+Submitted for RuneLite Plugin Hub review: [#18957](https://github.com/runelite/plugin-hub/pull/18957). **Not yet listed or approved.** Once accepted, players can install CA Locked through RuneLite's Plugin Hub on Windows, macOS or Linux. Installing a development JAR is not the normal player installation flow.
 
 ## Playing
 

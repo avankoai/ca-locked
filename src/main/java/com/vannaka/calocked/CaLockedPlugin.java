@@ -34,7 +34,6 @@ public class CaLockedPlugin extends Plugin {
  @Inject SpriteManager sprites;
  @Inject ConfigManager config;
  @Inject Gson gson;
- @Inject net.runelite.client.account.SessionManager sessions;
  @Inject java.util.concurrent.ScheduledExecutorService executor;
  @Inject CaLockedConfig settings;
  @Inject net.runelite.client.hiscore.HiscoreClient hiscores;
@@ -211,6 +210,8 @@ public class CaLockedPlugin extends Plugin {
   })).build();
  }
  @Override protected void startUp(){
+  DependencyRules.initialize(gson);
+  KillCountRisk.initialize(gson);
   store=new ChallengeStore(new ChallengeStore.Backend(){
    public String currentProfile(){return config.getRSProfileKey();}
    public String read(String key){return config.getConfiguration("calocked",key,"state");}
@@ -1089,7 +1090,7 @@ public class CaLockedPlugin extends Plugin {
   },true);y+=40;
   divider(8,y,innerWidth);y+=16;
   text("Account progress",8,y,innerWidth,18,GOLD);y+=24;
-  y=paragraph(sessions.getAccountSession()==null?"Saved for this character. Sign in to the same RuneLite account on both PCs to sync your challenge.":"RuneLite account connected. This character's challenge uses RuneLite's account sync.",8,y,innerWidth,0xc8c1b2)+12;
+  y=paragraph("Saved for this character. Sign in to the same RuneLite account on both PCs to sync your challenge.",8,y,innerWidth,0xc8c1b2)+12;
   button("Save progress",8,y,Math.min(180,innerWidth),()->executor.submit(config::sendConfig),true);y+=36;
   divider(8,y,innerWidth);y+=16;
   text("Sync achievements",8,y,innerWidth,18,0xc8c1b2);y+=24;
@@ -1564,7 +1565,7 @@ public class CaLockedPlugin extends Plugin {
        &&disabled.getBounds().contains(client.getMouseCanvasPosition().getX(),client.getMouseCanvasPosition().getY()))
      tooltips.add(new Tooltip(disabled==disabledRerollButton?"Enable rerolling in Settings to reroll tasks.":disabled==disabledStorageButton?"Enable storage in Settings to store tasks.":"Finish your active task before taking a stored task. Enable swapping in Settings to exchange them."));
    }
-   Widget map=client.getWidget(WidgetInfo.MINIMAP_WORLDMAP_ORB);if(map==null||map.isHidden())return null;
+   Widget map=client.getWidget(net.runelite.api.gameval.InterfaceID.Orbs.ORB_WORLDMAP);if(map==null||map.isHidden())return null;
    Rectangle b=map.getBounds();int size=34;
    // Continue the minimap's right-hand arc above the existing world-map button.
    int x=Math.min(b.x+10,client.getCanvasWidth()-size-4),y=b.y-39;

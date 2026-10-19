@@ -12,6 +12,8 @@ public class KillCountRiskTest {
  static boolean related(List<Challenge.Task> list,String name){return list.stream().anyMatch(t->t.name.equals(name));}
  static Challenge strict(){Challenge c=new Challenge();c.relaxedRules=false;return c;}
  public static void main(String[] args){
+  DependencyRules.initialize(new com.google.gson.Gson());
+  KillCountRisk.initialize(new com.google.gson.Gson());
   Challenge unknown=strict();unknown.tasks=DependencyRulesTest.catalogue();
   check(KillCountRisk.known(unknown,"king black dragon")==null,"Absent count is unknown, not zero");
   Challenge zero=strict();zero.tasks=DependencyRulesTest.catalogue();

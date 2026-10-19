@@ -5,6 +5,8 @@ public class ChallengeTest {
  static void check(boolean ok,String message){if(!ok)throw new AssertionError(message);}
  static Challenge strict(){Challenge c=new Challenge();c.relaxedRules=false;return c;}
  public static void main(String[] args){
+  DependencyRules.initialize(new com.google.gson.Gson());
+  KillCountRisk.initialize(new com.google.gson.Gson());
   int[] audio={90,0,0};boolean[] failAudio={false};
   net.runelite.api.Preferences preferences=(net.runelite.api.Preferences)java.lang.reflect.Proxy.newProxyInstance(ChallengeTest.class.getClassLoader(),new Class[]{net.runelite.api.Preferences.class},(proxy,method,values)->{
    if(method.getName().equals("getSoundEffectVolume"))return audio[0];
