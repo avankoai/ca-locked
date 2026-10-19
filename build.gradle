@@ -1,0 +1,43 @@
+plugins {
+	id 'java'
+}
+
+repositories {
+	maven {
+		url = 'https://repo.runelite.net'
+		content { includeGroupByRegex('net\\.runelite.*') }
+	}
+	mavenCentral()
+}
+
+def runeLiteVersion = providers.gradleProperty('runeLiteVersion').getOrElse('latest.release')
+dependencies {
+	compileOnly group: 'net.runelite', name: 'client', version: runeLiteVersion
+	testImplementation group: 'net.runelite', name: 'client', version: runeLiteVersion
+}
+
+group = 'com.vannaka.calocked'
+version = '0.1.0'
+
+tasks.withType(JavaCompile).configureEach {
+	options.encoding = 'UTF-8'
+	options.release.set(11)
+}
+
+['ChallengeTest', 'ChallengeStoreTest', 'DependencyRulesTest', 'KillCountRiskTest'].each { testClass ->
+	def verification = tasks.register("verify${testClass}", JavaExec) {
+		dependsOn testClasses
+		classpath = sourceSets.test.runtimeClasspath
+		mainClass = "com.vannaka.calocked.${testClass}"
+		jvmArgs '-ea', '-Djava.awt.headless=true'
+	}
+	tasks.named('check') { dependsOn verification }
+}
+
+tasks.register('run', JavaExec) {
+	dependsOn testClasses
+	classpath = sourceSets.test.runtimeClasspath
+	mainClass = 'com.vannaka.calocked.Launcher'
+	jvmArgs '-ea'
+	args '--developer-mode', '--debug'
+}

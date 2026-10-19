@@ -1,0 +1,4623 @@
+[
+  {
+    "id": 76,
+    "tier": "Easy",
+    "name": "Deranged Archaeologist Novice",
+    "description": "Kill the Deranged Archaeologist 10 times.",
+    "boss": "Deranged Archaeologist",
+    "key": "deranged archaeologist",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "deranged archaeologist",
+      "the deranged archaeologist"
+    ]
+  },
+  {
+    "id": 162,
+    "tier": "Easy",
+    "name": "King Black Dragon Novice",
+    "description": "Kill the King Black Dragon 10 times.",
+    "boss": "King Black Dragon",
+    "key": "king black dragon",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "king black dragon",
+      "the king black dragon"
+    ]
+  },
+  {
+    "id": 177,
+    "tier": "Easy",
+    "name": "Giant Mole Novice",
+    "description": "Kill the Giant Mole 10 times.",
+    "boss": "Giant Mole",
+    "key": "giant mole",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "giant mole",
+      "the giant mole"
+    ]
+  },
+  {
+    "id": 206,
+    "tier": "Easy",
+    "name": "Sarachnis Novice",
+    "description": "Kill Sarachnis 10 times.",
+    "boss": "Sarachnis",
+    "key": "sarachnis",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "sarachnis"
+    ]
+  },
+  {
+    "id": 279,
+    "tier": "Easy",
+    "name": "Wintertodt Novice",
+    "description": "Subdue the Wintertodt 5 times.",
+    "boss": "Wintertodt",
+    "key": "wintertodt",
+    "total": 5,
+    "minimum": 0,
+    "aliases": [
+      "the wintertodt",
+      "wintertodt"
+    ]
+  },
+  {
+    "id": 285,
+    "tier": "Easy",
+    "name": "Cosy",
+    "description": "Subdue the Wintertodt with four pieces of warm equipment equipped.",
+    "boss": "Wintertodt",
+    "key": "wintertodt",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "wintertodt"
+    ]
+  },
+  {
+    "id": 353,
+    "tier": "Easy",
+    "name": "Tempoross Novice",
+    "description": "Subdue Tempoross 5 times.",
+    "boss": "Tempoross",
+    "key": "tempoross",
+    "total": 5,
+    "minimum": 0,
+    "aliases": [
+      "tempoross"
+    ]
+  },
+  {
+    "id": 521,
+    "tier": "Easy",
+    "name": "Scurrius Novice",
+    "description": "Kill Scurrius once.",
+    "boss": "Scurrius",
+    "key": "scurrius",
+    "total": 1,
+    "minimum": 0,
+    "aliases": [
+      "scurrius"
+    ]
+  },
+  {
+    "id": 523,
+    "tier": "Easy",
+    "name": "Sit Rat",
+    "description": "Finish off Scurrius with a ratbane weapon in a private instance.",
+    "boss": "Scurrius",
+    "key": "scurrius",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "scurrius"
+    ]
+  },
+  {
+    "id": 594,
+    "tier": "Easy",
+    "name": "Elemental Company",
+    "description": "Kill the Royal Titans without attacking any elementals.",
+    "boss": "Royal Titans",
+    "key": "royal titans",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "royal titans"
+    ]
+  },
+  {
+    "id": 597,
+    "tier": "Easy",
+    "name": "Let them fight",
+    "description": "Kill the Royal Titans while having them kill a total of 10 elementals.",
+    "boss": "Royal Titans",
+    "key": "royal titans",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "royal titans"
+    ]
+  },
+  {
+    "id": 625,
+    "tier": "Easy",
+    "name": "Shellbane Adept",
+    "description": "Kill the Shellbane Gryphon 25 times.",
+    "boss": "Shellbane Gryphon",
+    "key": "shellbane gryphon",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "shellbane gryphon",
+      "the shellbane gryphon"
+    ]
+  },
+  {
+    "id": 630,
+    "tier": "Easy",
+    "name": "Dry Cleaning",
+    "description": "Kill the Shellbane Gryphon after clearing its corrosive spit from your armour.",
+    "boss": "Shellbane Gryphon",
+    "key": "shellbane gryphon",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "shellbane gryphon"
+    ]
+  },
+  {
+    "id": 632,
+    "tier": "Easy",
+    "name": "Brutus Novice",
+    "description": "Kill Brutus.",
+    "boss": "Brutus",
+    "key": "brutus",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "brutus"
+    ]
+  },
+  {
+    "id": 46,
+    "tier": "Medium",
+    "name": "Demonic Weakening",
+    "description": "Kill Skotizo with no altars active.",
+    "boss": "Skotizo",
+    "key": "skotizo",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "skotizo"
+    ]
+  },
+  {
+    "id": 48,
+    "tier": "Medium",
+    "name": "Demonbane Weaponry",
+    "description": "Kill Skotizo with a demonbane weapon equipped.",
+    "boss": "Skotizo",
+    "key": "skotizo",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "skotizo"
+    ]
+  },
+  {
+    "id": 61,
+    "tier": "Medium",
+    "name": "Chaos Fanatic Champion",
+    "description": "Kill the Chaos Fanatic 10 times.",
+    "boss": "Chaos Fanatic",
+    "key": "chaos fanatic",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "chaos fanatic",
+      "the chaos fanatic"
+    ]
+  },
+  {
+    "id": 63,
+    "tier": "Medium",
+    "name": "Sorry, What Was That?",
+    "description": "Kill the Chaos Fanatic without anyone being hit by his explosion attack.",
+    "boss": "Chaos Fanatic",
+    "key": "chaos fanatic",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "chaos fanatic"
+    ]
+  },
+  {
+    "id": 70,
+    "tier": "Medium",
+    "name": "Crazy Archaeologist Champion",
+    "description": "Kill the Crazy Archaeologist 10 times.",
+    "boss": "Crazy Archaeologist",
+    "key": "crazy archaeologist",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "crazy archaeologist",
+      "the crazy archaeologist"
+    ]
+  },
+  {
+    "id": 72,
+    "tier": "Medium",
+    "name": "Mage of the Ruins",
+    "description": "Kill the Crazy Archaeologist with only magical attacks.",
+    "boss": "Crazy Archaeologist",
+    "key": "crazy archaeologist",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "crazy archaeologist"
+    ]
+  },
+  {
+    "id": 73,
+    "tier": "Medium",
+    "name": "I'd Rather Not Learn",
+    "description": "Kill the Crazy Archaeologist without anyone being hit by his \"Rain of Knowledge\" attack.",
+    "boss": "Crazy Archaeologist",
+    "key": "crazy archaeologist",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "crazy archaeologist"
+    ]
+  },
+  {
+    "id": 77,
+    "tier": "Medium",
+    "name": "Deranged Archaeologist Champion",
+    "description": "Kill the Deranged Archaeologist 25 times.",
+    "boss": "Deranged Archaeologist",
+    "key": "deranged archaeologist",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "deranged archaeologist",
+      "the deranged archaeologist"
+    ]
+  },
+  {
+    "id": 78,
+    "tier": "Medium",
+    "name": "Mage of the Swamp",
+    "description": "Kill the Deranged Archaeologist with only magical attacks.",
+    "boss": "Deranged Archaeologist",
+    "key": "deranged archaeologist",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "deranged archaeologist"
+    ]
+  },
+  {
+    "id": 79,
+    "tier": "Medium",
+    "name": "I'd Rather Be Illiterate",
+    "description": "Kill the Deranged Archaeologist without anyone being hit by his \"Learn to Read\" attack.",
+    "boss": "Deranged Archaeologist",
+    "key": "deranged archaeologist",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "deranged archaeologist"
+    ]
+  },
+  {
+    "id": 163,
+    "tier": "Medium",
+    "name": "King Black Dragon Champion",
+    "description": "Kill the King Black Dragon 25 times.",
+    "boss": "King Black Dragon",
+    "key": "king black dragon",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "king black dragon",
+      "the king black dragon"
+    ]
+  },
+  {
+    "id": 164,
+    "tier": "Medium",
+    "name": "Claw Clipper",
+    "description": "Kill the King Black Dragon with the Protect from Melee prayer activated.",
+    "boss": "King Black Dragon",
+    "key": "king black dragon",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "king black dragon"
+    ]
+  },
+  {
+    "id": 165,
+    "tier": "Medium",
+    "name": "Hide Penetration",
+    "description": "Kill the King Black Dragon with a stab weapon.",
+    "boss": "King Black Dragon",
+    "key": "king black dragon",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "king black dragon"
+    ]
+  },
+  {
+    "id": 166,
+    "tier": "Medium",
+    "name": "Antifire Protection",
+    "description": "Kill the King Black Dragon with an antifire potion active and an antidragon shield equipped.",
+    "boss": "King Black Dragon",
+    "key": "king black dragon",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "king black dragon"
+    ]
+  },
+  {
+    "id": 178,
+    "tier": "Medium",
+    "name": "Giant Mole Champion",
+    "description": "Kill the Giant mole 25 times.",
+    "boss": "Giant Mole",
+    "key": "giant mole",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "giant mole",
+      "the giant mole"
+    ]
+  },
+  {
+    "id": 182,
+    "tier": "Medium",
+    "name": "Avoiding Those Little Arms",
+    "description": "Kill the Giant Mole without her damaging anyone.",
+    "boss": "Giant Mole",
+    "key": "giant mole",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "giant mole"
+    ]
+  },
+  {
+    "id": 197,
+    "tier": "Medium",
+    "name": "Dagannoth Prime Champion",
+    "description": "Kill Dagannoth Prime 10 times.",
+    "boss": "Dagannoth Prime",
+    "key": "dagannoth prime",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "dagannoth prime"
+    ]
+  },
+  {
+    "id": 201,
+    "tier": "Medium",
+    "name": "Dagannoth Rex Champion",
+    "description": "Kill Dagannoth Rex 10 times.",
+    "boss": "Dagannoth Rex",
+    "key": "dagannoth rex",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "dagannoth rex"
+    ]
+  },
+  {
+    "id": 204,
+    "tier": "Medium",
+    "name": "A Frozen King",
+    "description": "Kill Dagannoth Rex whilst he is immobilised.",
+    "boss": "Dagannoth Rex",
+    "key": "dagannoth rex",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "dagannoth rex"
+    ]
+  },
+  {
+    "id": 207,
+    "tier": "Medium",
+    "name": "Sarachnis Champion",
+    "description": "Kill Sarachnis 25 times.",
+    "boss": "Sarachnis",
+    "key": "sarachnis",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "sarachnis"
+    ]
+  },
+  {
+    "id": 210,
+    "tier": "Medium",
+    "name": "Newspaper Enthusiast",
+    "description": "Kill Sarachnis with a crush weapon.",
+    "boss": "Sarachnis",
+    "key": "sarachnis",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "sarachnis"
+    ]
+  },
+  {
+    "id": 233,
+    "tier": "Medium",
+    "name": "Dagannoth Supreme Champion",
+    "description": "Kill Dagannoth Supreme 10 times.",
+    "boss": "Dagannoth Supreme",
+    "key": "dagannoth supreme",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "dagannoth supreme"
+    ]
+  },
+  {
+    "id": 280,
+    "tier": "Medium",
+    "name": "Wintertodt Champion",
+    "description": "Subdue the Wintertodt 10 times.",
+    "boss": "Wintertodt",
+    "key": "wintertodt",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "the wintertodt",
+      "wintertodt"
+    ]
+  },
+  {
+    "id": 283,
+    "tier": "Medium",
+    "name": "Can We Fix It?",
+    "description": "Subdue the Wintertodt without allowing all 4 braziers to be broken at the same time.",
+    "boss": "Wintertodt",
+    "key": "wintertodt",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "wintertodt"
+    ]
+  },
+  {
+    "id": 284,
+    "tier": "Medium",
+    "name": "Leaving No One Behind",
+    "description": "Subdue the Wintertodt without any of the Pyromancers falling.",
+    "boss": "Wintertodt",
+    "key": "wintertodt",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "wintertodt"
+    ]
+  },
+  {
+    "id": 44,
+    "tier": "Medium",
+    "name": "Skotizo Champion",
+    "description": "Kill Skotizo once.",
+    "boss": "Skotizo",
+    "key": "skotizo",
+    "total": 1,
+    "minimum": 0,
+    "aliases": [
+      "skotizo"
+    ]
+  },
+  {
+    "id": 354,
+    "tier": "Medium",
+    "name": "Tempoross Champion",
+    "description": "Subdue Tempoross 10 times.",
+    "boss": "Tempoross",
+    "key": "tempoross",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "tempoross"
+    ]
+  },
+  {
+    "id": 359,
+    "tier": "Medium",
+    "name": "The Lone Angler",
+    "description": "Subdue Tempoross alone without getting hit by any fires, torrents or waves.",
+    "boss": "Tempoross",
+    "key": "tempoross",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "tempoross"
+    ]
+  },
+  {
+    "id": 522,
+    "tier": "Medium",
+    "name": "Scurrius Champion",
+    "description": "Kill Scurrius 10 times.",
+    "boss": "Scurrius",
+    "key": "scurrius",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "scurrius"
+    ]
+  },
+  {
+    "id": 524,
+    "tier": "Medium",
+    "name": "Perfect Scurrius",
+    "description": "Kill Scurrius in a private instance without taking damage from the following attacks: Tail Swipe and Falling Bricks. Pray correctly against the following attacks: Flying Fur and Bolts of Electricity.",
+    "boss": "Scurrius",
+    "key": "scurrius",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "scurrius"
+    ]
+  },
+  {
+    "id": 568,
+    "tier": "Medium",
+    "name": "Hueycoatl Champion",
+    "description": "Kill the Hueycoatl once.",
+    "boss": "The Hueycoatl",
+    "key": "hueycoatl",
+    "total": 1,
+    "minimum": 0,
+    "aliases": [
+      "hueycoatl",
+      "the hueycoatl"
+    ]
+  },
+  {
+    "id": 574,
+    "tier": "Medium",
+    "name": "You're a wizard",
+    "description": "Kill the Hueycoatl using only earth spells.",
+    "boss": "The Hueycoatl",
+    "key": "hueycoatl",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "hueycoatl",
+      "the hueycoatl"
+    ]
+  },
+  {
+    "id": 579,
+    "tier": "Medium",
+    "name": "Amoxliatl Champion",
+    "description": "Kill Amoxliatl once.",
+    "boss": "Amoxliatl",
+    "key": "amoxliatl",
+    "total": 1,
+    "minimum": 0,
+    "aliases": [
+      "amoxliatl"
+    ]
+  },
+  {
+    "id": 584,
+    "tier": "Medium",
+    "name": "Temotli Triumph",
+    "description": "Kill Amoxliatl using only glacial temotli as a weapon.",
+    "boss": "Amoxliatl",
+    "key": "amoxliatl",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "amoxliatl"
+    ]
+  },
+  {
+    "id": 589,
+    "tier": "Medium",
+    "name": "Royal Titan Champion",
+    "description": "Kill the Royal Titans 10 times.",
+    "boss": "Royal Titans",
+    "key": "royal titans",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "royal titans",
+      "the royal titans"
+    ]
+  },
+  {
+    "id": 590,
+    "tier": "Medium",
+    "name": "Royal Titan Adept",
+    "description": "Kill the Royal Titans 25 times.",
+    "boss": "Royal Titans",
+    "key": "royal titans",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "royal titans",
+      "the royal titans"
+    ]
+  },
+  {
+    "id": 626,
+    "tier": "Medium",
+    "name": "Shellbane Veteran",
+    "description": "Kill the Shellbane Gryphon 50 times.",
+    "boss": "Shellbane Gryphon",
+    "key": "shellbane gryphon",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "shellbane gryphon",
+      "the shellbane gryphon"
+    ]
+  },
+  {
+    "id": 627,
+    "tier": "Medium",
+    "name": "Perfect Shellbane",
+    "description": "Kill the Shellbane Gryphon without taking damage.",
+    "boss": "Shellbane Gryphon",
+    "key": "shellbane gryphon",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "shellbane gryphon"
+    ]
+  },
+  {
+    "id": 628,
+    "tier": "Medium",
+    "name": "Shellbane Speedrunner",
+    "description": "Kill the Shellbane Gryphon 10 times within 12:30 minutes of entering the cave.",
+    "boss": "Shellbane Gryphon",
+    "key": "shellbane gryphon",
+    "total": 0,
+    "minimum": 10,
+    "aliases": [
+      "shellbane gryphon"
+    ]
+  },
+  {
+    "id": 633,
+    "tier": "Medium",
+    "name": "Brutus Champion",
+    "description": "Kill Brutus 10 times.",
+    "boss": "Brutus",
+    "key": "brutus",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "brutus"
+    ]
+  },
+  {
+    "id": 635,
+    "tier": "Medium",
+    "name": "Beef vs Beef",
+    "description": "Kill Brutus whilst neither equipping nor consuming anything.",
+    "boss": "Brutus",
+    "key": "brutus",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "brutus"
+    ]
+  },
+  {
+    "id": 646,
+    "tier": "Medium",
+    "name": "Mad Angel Adept",
+    "description": "Kill the Mad Angel 25 times.",
+    "boss": "The Mad Angel",
+    "key": "mad angel",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "mad angel",
+      "the mad angel"
+    ]
+  },
+  {
+    "id": 651,
+    "tier": "Medium",
+    "name": "Dancing Queen",
+    "description": "Kill the Mad Angel after getting 6 consecutive enhanced attacks by dodging the sweep attack successfully during her enrage phase.",
+    "boss": "The Mad Angel",
+    "key": "mad angel",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "mad angel",
+      "the mad angel"
+    ]
+  },
+  {
+    "id": 652,
+    "tier": "Medium",
+    "name": "Smite Fight",
+    "description": "Kill the Mad Angel after getting 3 consecutive enhanced attacks by successfully praying against the smite attacks during her enrage phase.",
+    "boss": "The Mad Angel",
+    "key": "mad angel",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "mad angel",
+      "the mad angel"
+    ]
+  },
+  {
+    "id": 653,
+    "tier": "Medium",
+    "name": "Juggling Act",
+    "description": "Kill the Mad Angel after attacking her between each bounce of the blast attack during her enrage phase.",
+    "boss": "The Mad Angel",
+    "key": "mad angel",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "mad angel",
+      "the mad angel"
+    ]
+  },
+  {
+    "id": 1,
+    "tier": "Hard",
+    "name": "Abyssal Adept",
+    "description": "Kill the Abyssal Sire 20 times.",
+    "boss": "Abyssal Sire",
+    "key": "abyssal sire",
+    "total": 20,
+    "minimum": 0,
+    "aliases": [
+      "abyssal sire",
+      "the abyssal sire"
+    ]
+  },
+  {
+    "id": 3,
+    "tier": "Hard",
+    "name": "They Grow Up Too Fast",
+    "description": "Kill the Abyssal Sire without letting any Scion mature.",
+    "boss": "Abyssal Sire",
+    "key": "abyssal sire",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "abyssal sire"
+    ]
+  },
+  {
+    "id": 5,
+    "tier": "Hard",
+    "name": "Don't Whip Me",
+    "description": "Kill the Abyssal Sire without being hit by any external tentacles.",
+    "boss": "Abyssal Sire",
+    "key": "abyssal sire",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "abyssal sire"
+    ]
+  },
+  {
+    "id": 7,
+    "tier": "Hard",
+    "name": "Don't Stop Moving",
+    "description": "Kill the Abyssal Sire without taking damage from any miasma pools.",
+    "boss": "Abyssal Sire",
+    "key": "abyssal sire",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "abyssal sire"
+    ]
+  },
+  {
+    "id": 9,
+    "tier": "Hard",
+    "name": "Kree'arra Adept",
+    "description": "Kill Kree'arra 50 times.",
+    "boss": "Kree'arra",
+    "key": "kree'arra",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "kree'arra"
+    ]
+  },
+  {
+    "id": 12,
+    "tier": "Hard",
+    "name": "Airborne Showdown",
+    "description": "Finish off Kree'arra whilst all of his bodyguards are dead.",
+    "boss": "Kree'arra",
+    "key": "kree'arra",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "kree'arra"
+    ]
+  },
+  {
+    "id": 16,
+    "tier": "Hard",
+    "name": "General Graardor Adept",
+    "description": "Kill General Graardor 50 times.",
+    "boss": "General Graardor",
+    "key": "general graardor",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "general graardor"
+    ]
+  },
+  {
+    "id": 18,
+    "tier": "Hard",
+    "name": "Ourg Freezer",
+    "description": "Kill General Graardor whilst he is immobilized.",
+    "boss": "General Graardor",
+    "key": "general graardor",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "general graardor"
+    ]
+  },
+  {
+    "id": 20,
+    "tier": "Hard",
+    "name": "General Showdown",
+    "description": "Finish off General Graardor whilst all of his bodyguards are dead.",
+    "boss": "General Graardor",
+    "key": "general graardor",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "general graardor"
+    ]
+  },
+  {
+    "id": 42,
+    "tier": "Hard",
+    "name": "Callisto Adept",
+    "description": "Kill Callisto 10 times.",
+    "boss": "Callisto",
+    "key": "callisto",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "callisto"
+    ]
+  },
+  {
+    "id": 45,
+    "tier": "Hard",
+    "name": "Skotizo Adept",
+    "description": "Kill Skotizo 5 times.",
+    "boss": "Skotizo",
+    "key": "skotizo",
+    "total": 5,
+    "minimum": 0,
+    "aliases": [
+      "skotizo"
+    ]
+  },
+  {
+    "id": 57,
+    "tier": "Hard",
+    "name": "Chaos Elemental Adept",
+    "description": "Kill the Chaos Elemental 10 times.",
+    "boss": "Chaos Elemental",
+    "key": "chaos elemental",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "chaos elemental",
+      "the chaos elemental"
+    ]
+  },
+  {
+    "id": 59,
+    "tier": "Hard",
+    "name": "Hoarder",
+    "description": "Kill the Chaos Elemental without it unequipping any of your items.",
+    "boss": "Chaos Elemental",
+    "key": "chaos elemental",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "chaos elemental"
+    ]
+  },
+  {
+    "id": 60,
+    "tier": "Hard",
+    "name": "The Flincher",
+    "description": "Kill the Chaos Elemental without taking any damage from its attacks.",
+    "boss": "Chaos Elemental",
+    "key": "chaos elemental",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "chaos elemental"
+    ]
+  },
+  {
+    "id": 62,
+    "tier": "Hard",
+    "name": "Chaos Fanatic Adept",
+    "description": "Kill the Chaos Fanatic 25 times.",
+    "boss": "Chaos Fanatic",
+    "key": "chaos fanatic",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "chaos fanatic",
+      "the chaos fanatic"
+    ]
+  },
+  {
+    "id": 64,
+    "tier": "Hard",
+    "name": "Praying to the Gods",
+    "description": "Kill the Chaos Fanatic 10 times without drinking any potion which restores prayer or leaving the Wilderness.",
+    "boss": "Chaos Fanatic",
+    "key": "chaos fanatic",
+    "total": 0,
+    "minimum": 10,
+    "aliases": [
+      "chaos fanatic"
+    ]
+  },
+  {
+    "id": 71,
+    "tier": "Hard",
+    "name": "Crazy Archaeologist Adept",
+    "description": "Kill the Crazy Archaeologist 25 times.",
+    "boss": "Crazy Archaeologist",
+    "key": "crazy archaeologist",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "crazy archaeologist",
+      "the crazy archaeologist"
+    ]
+  },
+  {
+    "id": 82,
+    "tier": "Hard",
+    "name": "Grotesque Guardians Adept",
+    "description": "Kill the Grotesque Guardians 25 times.",
+    "boss": "Grotesque Guardians",
+    "key": "grotesque guardians",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "grotesque guardians",
+      "the grotesque guardians"
+    ]
+  },
+  {
+    "id": 84,
+    "tier": "Hard",
+    "name": "Don't Look at the Eclipse",
+    "description": "Kill the Grotesque Guardians without taking damage from Dusk's blinding attack.",
+    "boss": "Grotesque Guardians",
+    "key": "grotesque guardians",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "grotesque guardians"
+    ]
+  },
+  {
+    "id": 85,
+    "tier": "Hard",
+    "name": "Prison Break",
+    "description": "Kill the Grotesque Guardians without taking damage from Dusk's prison attack.",
+    "boss": "Grotesque Guardians",
+    "key": "grotesque guardians",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "grotesque guardians"
+    ]
+  },
+  {
+    "id": 86,
+    "tier": "Hard",
+    "name": "Granite Footwork",
+    "description": "Kill the Grotesque Guardians without taking damage from Dawn's rockfall attack.",
+    "boss": "Grotesque Guardians",
+    "key": "grotesque guardians",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "grotesque guardians"
+    ]
+  },
+  {
+    "id": 87,
+    "tier": "Hard",
+    "name": "Heal No More",
+    "description": "Kill the Grotesque Guardians without letting Dawn receive any healing from her orbs.",
+    "boss": "Grotesque Guardians",
+    "key": "grotesque guardians",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "grotesque guardians"
+    ]
+  },
+  {
+    "id": 88,
+    "tier": "Hard",
+    "name": "Static Awareness",
+    "description": "Kill the Grotesque Guardians without being hit by any lightning attacks.",
+    "boss": "Grotesque Guardians",
+    "key": "grotesque guardians",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "grotesque guardians"
+    ]
+  },
+  {
+    "id": 123,
+    "tier": "Hard",
+    "name": "Hespori Adept",
+    "description": "Kill Hespori 5 times.",
+    "boss": "Hespori",
+    "key": "hespori",
+    "total": 5,
+    "minimum": 0,
+    "aliases": [
+      "hespori"
+    ]
+  },
+  {
+    "id": 124,
+    "tier": "Hard",
+    "name": "Hesporisn't",
+    "description": "Finish off Hespori with a special attack.",
+    "boss": "Hespori",
+    "key": "hespori",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "hespori"
+    ]
+  },
+  {
+    "id": 157,
+    "tier": "Hard",
+    "name": "Kalphite Queen Adept",
+    "description": "Kill the Kalphite Queen 25 times.",
+    "boss": "Kalphite Queen",
+    "key": "kalphite queen",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "kalphite queen",
+      "the kalphite queen"
+    ]
+  },
+  {
+    "id": 159,
+    "tier": "Hard",
+    "name": "Chitin Penetrator",
+    "description": "Kill the Kalphite Queen while her defence was last lowered by you.",
+    "boss": "Kalphite Queen",
+    "key": "kalphite queen",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "kalphite queen"
+    ]
+  },
+  {
+    "id": 167,
+    "tier": "Hard",
+    "name": "Who Is the King Now?",
+    "description": "Kill The King Black Dragon 10 times in a privately rented instance without leaving the instance.",
+    "boss": "King Black Dragon",
+    "key": "king black dragon",
+    "total": 0,
+    "minimum": 10,
+    "aliases": [
+      "king black dragon"
+    ]
+  },
+  {
+    "id": 168,
+    "tier": "Hard",
+    "name": "Kraken Adept",
+    "description": "Kill the Kraken 20 times.",
+    "boss": "Kraken",
+    "key": "kraken",
+    "total": 20,
+    "minimum": 0,
+    "aliases": [
+      "kraken",
+      "the kraken"
+    ]
+  },
+  {
+    "id": 169,
+    "tier": "Hard",
+    "name": "Unnecessary Optimisation",
+    "description": "Kill the Kraken after killing all four tentacles.",
+    "boss": "Kraken",
+    "key": "kraken",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "kraken"
+    ]
+  },
+  {
+    "id": 170,
+    "tier": "Hard",
+    "name": "Krakan't Hurt Me",
+    "description": "Kill the Kraken 25 times in a privately rented instance without leaving the room.",
+    "boss": "Kraken",
+    "key": "kraken",
+    "total": 0,
+    "minimum": 25,
+    "aliases": [
+      "kraken"
+    ]
+  },
+  {
+    "id": 179,
+    "tier": "Hard",
+    "name": "Why Are You Running?",
+    "description": "Kill the Giant Mole without her burrowing more than 2 times.",
+    "boss": "Giant Mole",
+    "key": "giant mole",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "giant mole"
+    ]
+  },
+  {
+    "id": 181,
+    "tier": "Hard",
+    "name": "Whack-a-Mole",
+    "description": "Kill the Giant Mole within 10 seconds of her resurfacing.",
+    "boss": "Giant Mole",
+    "key": "giant mole",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "giant mole"
+    ]
+  },
+  {
+    "id": 183,
+    "tier": "Hard",
+    "name": "Nightmare Adept",
+    "description": "Kill The Nightmare once.",
+    "boss": "The Nightmare",
+    "key": "nightmare",
+    "total": 1,
+    "minimum": 0,
+    "aliases": [
+      "nightmare",
+      "the nightmare"
+    ]
+  },
+  {
+    "id": 198,
+    "tier": "Hard",
+    "name": "Dagannoth Prime Adept",
+    "description": "Kill Dagannoth Prime 25 times.",
+    "boss": "Dagannoth Prime",
+    "key": "dagannoth prime",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "dagannoth prime"
+    ]
+  },
+  {
+    "id": 202,
+    "tier": "Hard",
+    "name": "Dagannoth Rex Adept",
+    "description": "Kill Dagannoth Rex 25 times.",
+    "boss": "Dagannoth Rex",
+    "key": "dagannoth rex",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "dagannoth rex"
+    ]
+  },
+  {
+    "id": 208,
+    "tier": "Hard",
+    "name": "Ready to Pounce",
+    "description": "Kill Sarachnis without her using her range attack twice in a row.",
+    "boss": "Sarachnis",
+    "key": "sarachnis",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "sarachnis"
+    ]
+  },
+  {
+    "id": 209,
+    "tier": "Hard",
+    "name": "Inspect Repellent",
+    "description": "Kill Sarachnis without her dealing damage to anyone.",
+    "boss": "Sarachnis",
+    "key": "sarachnis",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "sarachnis"
+    ]
+  },
+  {
+    "id": 211,
+    "tier": "Hard",
+    "name": "Commander Zilyana Adept",
+    "description": "Kill Commander Zilyana 50 times.",
+    "boss": "Commander Zilyana",
+    "key": "commander zilyana",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "commander zilyana"
+    ]
+  },
+  {
+    "id": 213,
+    "tier": "Hard",
+    "name": "Commander Showdown",
+    "description": "Finish off Commander Zilyana while all of her bodyguards are dead.",
+    "boss": "Commander Zilyana",
+    "key": "commander zilyana",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "commander zilyana"
+    ]
+  },
+  {
+    "id": 218,
+    "tier": "Hard",
+    "name": "Scorpia Adept",
+    "description": "Kill Scorpia 10 times.",
+    "boss": "Scorpia",
+    "key": "scorpia",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "scorpia"
+    ]
+  },
+  {
+    "id": 220,
+    "tier": "Hard",
+    "name": "I Can't Reach That",
+    "description": "Kill Scorpia without taking any damage from her.",
+    "boss": "Scorpia",
+    "key": "scorpia",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "scorpia"
+    ]
+  },
+  {
+    "id": 221,
+    "tier": "Hard",
+    "name": "Guardians No More",
+    "description": "Kill Scorpia without killing her guardians.",
+    "boss": "Scorpia",
+    "key": "scorpia",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "scorpia"
+    ]
+  },
+  {
+    "id": 224,
+    "tier": "Hard",
+    "name": "Zulrah Adept",
+    "description": "Kill Zulrah 25 times.",
+    "boss": "Zulrah",
+    "key": "zulrah",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "zulrah"
+    ]
+  },
+  {
+    "id": 234,
+    "tier": "Hard",
+    "name": "Dagannoth Supreme Adept",
+    "description": "Kill Dagannoth Supreme 25 times.",
+    "boss": "Dagannoth Supreme",
+    "key": "dagannoth supreme",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "dagannoth supreme"
+    ]
+  },
+  {
+    "id": 264,
+    "tier": "Hard",
+    "name": "Venenatis Adept",
+    "description": "Kill Venenatis 10 times.",
+    "boss": "Venenatis",
+    "key": "venenatis",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "venenatis"
+    ]
+  },
+  {
+    "id": 266,
+    "tier": "Hard",
+    "name": "Vet'ion Adept",
+    "description": "Kill Vet'ion 10 times.",
+    "boss": "Vet'ion",
+    "key": "vet'ion",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "vet'ion"
+    ]
+  },
+  {
+    "id": 286,
+    "tier": "Hard",
+    "name": "Why Fletch?",
+    "description": "Subdue the Wintertodt after earning 3000 or more points.",
+    "boss": "Wintertodt",
+    "key": "wintertodt",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "wintertodt"
+    ]
+  },
+  {
+    "id": 332,
+    "tier": "Hard",
+    "name": "K'ril Tsutsaroth Adept",
+    "description": "Kill K'ril Tsutsaroth 50 times.",
+    "boss": "K'ril Tsutsaroth",
+    "key": "k'ril tsutsaroth",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "k'ril tsutsaroth"
+    ]
+  },
+  {
+    "id": 335,
+    "tier": "Hard",
+    "name": "Demonic Showdown",
+    "description": "Finish off K'ril Tsutsaroth whilst all of his bodyguards are dead.",
+    "boss": "K'ril Tsutsaroth",
+    "key": "k'ril tsutsaroth",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "k'ril tsutsaroth"
+    ]
+  },
+  {
+    "id": 339,
+    "tier": "Hard",
+    "name": "Demonbane Weaponry II",
+    "description": "Finish off K'ril Tsutsaroth with a demonbane weapon.",
+    "boss": "K'ril Tsutsaroth",
+    "key": "k'ril tsutsaroth",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "k'ril tsutsaroth"
+    ]
+  },
+  {
+    "id": 355,
+    "tier": "Hard",
+    "name": "Dress Like You Mean It",
+    "description": "Subdue Tempoross while wearing any variation of the angler outfit.",
+    "boss": "Tempoross",
+    "key": "tempoross",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "tempoross"
+    ]
+  },
+  {
+    "id": 358,
+    "tier": "Hard",
+    "name": "Why Cook?",
+    "description": "Subdue Tempoross, getting rewarded with 10 reward permits from a single Tempoross fight.",
+    "boss": "Tempoross",
+    "key": "tempoross",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "tempoross"
+    ]
+  },
+  {
+    "id": 478,
+    "tier": "Hard",
+    "name": "Phantom Muspah Adept",
+    "description": "Kill the Phantom Muspah.",
+    "boss": "Phantom Muspah",
+    "key": "phantom muspah",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "phantom muspah"
+    ]
+  },
+  {
+    "id": 569,
+    "tier": "Hard",
+    "name": "Hueycoatl Adept",
+    "description": "Kill the Hueycoatl 10 times.",
+    "boss": "The Hueycoatl",
+    "key": "hueycoatl",
+    "total": 10,
+    "minimum": 0,
+    "aliases": [
+      "hueycoatl",
+      "the hueycoatl"
+    ]
+  },
+  {
+    "id": 572,
+    "tier": "Hard",
+    "name": "Pillar Lover",
+    "description": "Kill the Hueycoatl whilst it is vulnerable.",
+    "boss": "The Hueycoatl",
+    "key": "hueycoatl",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "hueycoatl",
+      "the hueycoatl"
+    ]
+  },
+  {
+    "id": 575,
+    "tier": "Hard",
+    "name": "I'm your son",
+    "description": "Kill the Hueycoatl whilst wearing two pieces of Hueycoatl armour.",
+    "boss": "The Hueycoatl",
+    "key": "hueycoatl",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "hueycoatl",
+      "the hueycoatl"
+    ]
+  },
+  {
+    "id": 580,
+    "tier": "Hard",
+    "name": "Amoxliatl Adept",
+    "description": "Kill Amoxliatl 20 times.",
+    "boss": "Amoxliatl",
+    "key": "amoxliatl",
+    "total": 20,
+    "minimum": 0,
+    "aliases": [
+      "amoxliatl"
+    ]
+  },
+  {
+    "id": 581,
+    "tier": "Hard",
+    "name": "Amoxliatl Speed-Trialist",
+    "description": "Kill Amoxliatl in less than 1 minute.",
+    "boss": "Amoxliatl",
+    "key": "amoxliatl",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "amoxliatl"
+    ]
+  },
+  {
+    "id": 583,
+    "tier": "Hard",
+    "name": "Nagua Negation",
+    "description": "Kill Amoxliatl without taking any damage.",
+    "boss": "Amoxliatl",
+    "key": "amoxliatl",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "amoxliatl"
+    ]
+  },
+  {
+    "id": 586,
+    "tier": "Hard",
+    "name": "Kemo Makti",
+    "description": "Kill Amoxliatl 10 times without leaving her chamber.",
+    "boss": "Amoxliatl",
+    "key": "amoxliatl",
+    "total": 0,
+    "minimum": 10,
+    "aliases": [
+      "amoxliatl"
+    ]
+  },
+  {
+    "id": 587,
+    "tier": "Hard",
+    "name": "Totally Shattered",
+    "description": "Kill Amoxliatl without any of her unstable ice shattering.",
+    "boss": "Amoxliatl",
+    "key": "amoxliatl",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "amoxliatl"
+    ]
+  },
+  {
+    "id": 588,
+    "tier": "Hard",
+    "name": "Perfect Royal Titans",
+    "description": "Kill the Royal Titans without taking any avoidable damage. This includes damage from any melee attacks, explosions from the ice elemental or fire elemental, any icicle or fire spawn, any jump attacks or the ice or fire pulse attack.",
+    "boss": "Royal Titans",
+    "key": "royal titans",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "royal titans"
+    ]
+  },
+  {
+    "id": 592,
+    "tier": "Hard",
+    "name": "Royal Titan Speed-Runner",
+    "description": "Kill the Royal Titans in less than 1:30 minutes.",
+    "boss": "Royal Titans",
+    "key": "royal titans",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "royal titans"
+    ]
+  },
+  {
+    "id": 593,
+    "tier": "Hard",
+    "name": "Titan Killer",
+    "description": "Kill the Royal Titans 15 times without leaving the area. If a player joins the fight, the current streak will be reset to 0. If a player leaves the fight, the task will be failed and a new instance will need to be created.",
+    "boss": "Royal Titans",
+    "key": "royal titans",
+    "total": 0,
+    "minimum": 15,
+    "aliases": [
+      "royal titans"
+    ]
+  },
+  {
+    "id": 595,
+    "tier": "Hard",
+    "name": "I need room",
+    "description": "Kill the Royal Titans while extinguishing all fires and melting all icicles before they dissipate naturally.",
+    "boss": "Royal Titans",
+    "key": "royal titans",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "royal titans"
+    ]
+  },
+  {
+    "id": 629,
+    "tier": "Hard",
+    "name": "Shellbane Survivor",
+    "description": "Kill the Shellbane Gryphon 25 times without leaving the cave.",
+    "boss": "Shellbane Gryphon",
+    "key": "shellbane gryphon",
+    "total": 0,
+    "minimum": 25,
+    "aliases": [
+      "shellbane gryphon"
+    ]
+  },
+  {
+    "id": 631,
+    "tier": "Hard",
+    "name": "Featherweight Fighter",
+    "description": "Kill the Shellbane Gryphon 5 times without leaving the cave, while wearing gear weighing less than 40kg.",
+    "boss": "Shellbane Gryphon",
+    "key": "shellbane gryphon",
+    "total": 0,
+    "minimum": 5,
+    "aliases": [
+      "shellbane gryphon"
+    ]
+  },
+  {
+    "id": 636,
+    "tier": "Hard",
+    "name": "Smarter than a Cow",
+    "description": "Kill Brutus without being attacked.",
+    "boss": "Brutus",
+    "key": "brutus",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "brutus"
+    ]
+  },
+  {
+    "id": 637,
+    "tier": "Hard",
+    "name": "Maggot Squasher",
+    "description": "Kill the Maggot King.",
+    "boss": "Maggot King",
+    "key": "maggot king",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "maggot king"
+    ]
+  },
+  {
+    "id": 647,
+    "tier": "Hard",
+    "name": "Mad Angel Veteran",
+    "description": "Kill the Mad Angel 50 times.",
+    "boss": "The Mad Angel",
+    "key": "mad angel",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "mad angel",
+      "the mad angel"
+    ]
+  },
+  {
+    "id": 648,
+    "tier": "Hard",
+    "name": "Perfect Mad Angel",
+    "description": "Kill the Mad Angel without taking any avoidable damage.",
+    "boss": "The Mad Angel",
+    "key": "mad angel",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "mad angel",
+      "the mad angel"
+    ]
+  },
+  {
+    "id": 650,
+    "tier": "Hard",
+    "name": "Mad Angel Speed-Runner",
+    "description": "Kill the Mad Angel 5 times within 10 minutes of entering her arena.",
+    "boss": "The Mad Angel",
+    "key": "mad angel",
+    "total": 0,
+    "minimum": 5,
+    "aliases": [
+      "mad angel",
+      "the mad angel"
+    ]
+  },
+  {
+    "id": 2,
+    "tier": "Elite",
+    "name": "Abyssal Veteran",
+    "description": "Kill the Abyssal Sire 50 times.",
+    "boss": "Abyssal Sire",
+    "key": "abyssal sire",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "abyssal sire",
+      "the abyssal sire"
+    ]
+  },
+  {
+    "id": 4,
+    "tier": "Elite",
+    "name": "Respiratory Runner",
+    "description": "Kill the Abyssal Sire after only stunning him once.",
+    "boss": "Abyssal Sire",
+    "key": "abyssal sire",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "abyssal sire"
+    ]
+  },
+  {
+    "id": 8,
+    "tier": "Elite",
+    "name": "Perfect Sire",
+    "description": "Kill the Abyssal Sire without taking damage from the external tentacles, miasma pools, explosion or damage from the Abyssal Sire without praying the appropriate protection prayer.",
+    "boss": "Abyssal Sire",
+    "key": "abyssal sire",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "abyssal sire"
+    ]
+  },
+  {
+    "id": 10,
+    "tier": "Elite",
+    "name": "Kree'arra Veteran",
+    "description": "Kill Kree'arra 100 times.",
+    "boss": "Kree'arra",
+    "key": "kree'arra",
+    "total": 100,
+    "minimum": 0,
+    "aliases": [
+      "kree'arra"
+    ]
+  },
+  {
+    "id": 17,
+    "tier": "Elite",
+    "name": "General Graardor Veteran",
+    "description": "Kill General Graardor 100 times.",
+    "boss": "General Graardor",
+    "key": "general graardor",
+    "total": 100,
+    "minimum": 0,
+    "aliases": [
+      "general graardor"
+    ]
+  },
+  {
+    "id": 19,
+    "tier": "Elite",
+    "name": "Ourg Freezer II",
+    "description": "Kill General Graardor without him attacking any players.",
+    "boss": "General Graardor",
+    "key": "general graardor",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "general graardor"
+    ]
+  },
+  {
+    "id": 43,
+    "tier": "Elite",
+    "name": "Callisto Veteran",
+    "description": "Kill Callisto 20 times.",
+    "boss": "Callisto",
+    "key": "callisto",
+    "total": 20,
+    "minimum": 0,
+    "aliases": [
+      "callisto"
+    ]
+  },
+  {
+    "id": 47,
+    "tier": "Elite",
+    "name": "Demon Evasion",
+    "description": "Kill Skotizo without taking any damage.",
+    "boss": "Skotizo",
+    "key": "skotizo",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "skotizo"
+    ]
+  },
+  {
+    "id": 49,
+    "tier": "Elite",
+    "name": "Up for the Challenge",
+    "description": "Kill Skotizo without equipping a demonbane weapon.",
+    "boss": "Skotizo",
+    "key": "skotizo",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "skotizo"
+    ]
+  },
+  {
+    "id": 51,
+    "tier": "Elite",
+    "name": "Cerberus Veteran",
+    "description": "Kill Cerberus 75 times.",
+    "boss": "Cerberus",
+    "key": "cerberus",
+    "total": 75,
+    "minimum": 0,
+    "aliases": [
+      "cerberus"
+    ]
+  },
+  {
+    "id": 54,
+    "tier": "Elite",
+    "name": "Ghost Buster",
+    "description": "Kill Cerberus after successfully negating 6 or more attacks from Summoned Souls.",
+    "boss": "Cerberus",
+    "key": "cerberus",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "cerberus"
+    ]
+  },
+  {
+    "id": 55,
+    "tier": "Elite",
+    "name": "Unrequired Antifire",
+    "description": "Kill Cerberus without taking damage from any lava pools.",
+    "boss": "Cerberus",
+    "key": "cerberus",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "cerberus"
+    ]
+  },
+  {
+    "id": 56,
+    "tier": "Elite",
+    "name": "Anti-Bite Mechanics",
+    "description": "Kill Cerberus without taking any melee damage.",
+    "boss": "Cerberus",
+    "key": "cerberus",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "cerberus"
+    ]
+  },
+  {
+    "id": 58,
+    "tier": "Elite",
+    "name": "Chaos Elemental Veteran",
+    "description": "Kill the Chaos Elemental 25 times.",
+    "boss": "Chaos Elemental",
+    "key": "chaos elemental",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "chaos elemental",
+      "the chaos elemental"
+    ]
+  },
+  {
+    "id": 65,
+    "tier": "Elite",
+    "name": "Corporeal Beast Veteran",
+    "description": "Kill the Corporeal Beast 25 times.",
+    "boss": "Corporeal Beast",
+    "key": "corporeal beast",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "corporeal beast",
+      "the corporeal beast"
+    ]
+  },
+  {
+    "id": 67,
+    "tier": "Elite",
+    "name": "Hot on Your Feet",
+    "description": "Kill the Corporeal Beast without anyone killing the dark core or taking damage from the dark core.",
+    "boss": "Corporeal Beast",
+    "key": "corporeal beast",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "corporeal beast"
+    ]
+  },
+  {
+    "id": 68,
+    "tier": "Elite",
+    "name": "Finding the Weak Spot",
+    "description": "Finish off the Corporeal Beast with a Halberd special attack.",
+    "boss": "Corporeal Beast",
+    "key": "corporeal beast",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "corporeal beast"
+    ]
+  },
+  {
+    "id": 69,
+    "tier": "Elite",
+    "name": "Chicken Killer",
+    "description": "Kill the Corporeal Beast solo.",
+    "boss": "Corporeal Beast",
+    "key": "corporeal beast",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "corporeal beast"
+    ]
+  },
+  {
+    "id": 83,
+    "tier": "Elite",
+    "name": "Grotesque Guardians Veteran",
+    "description": "Kill the Grotesque Guardians 50 times.",
+    "boss": "Grotesque Guardians",
+    "key": "grotesque guardians",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "grotesque guardians",
+      "the grotesque guardians"
+    ]
+  },
+  {
+    "id": 89,
+    "tier": "Elite",
+    "name": "Done before Dusk",
+    "description": "Kill the Grotesque Guardians before Dusk uses his prison attack for a second time.",
+    "boss": "Grotesque Guardians",
+    "key": "grotesque guardians",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "grotesque guardians"
+    ]
+  },
+  {
+    "id": 90,
+    "tier": "Elite",
+    "name": "Perfect Grotesque Guardians",
+    "description": "Kill the Grotesque Guardians whilst completing the \"Don't look at the eclipse\", \"Prison Break\", \"Granite footwork\", \"Heal no more\", \"Static Awareness\" and \"Done before dusk\" tasks.",
+    "boss": "Grotesque Guardians",
+    "key": "grotesque guardians",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "grotesque guardians"
+    ]
+  },
+  {
+    "id": 92,
+    "tier": "Elite",
+    "name": "Grotesque Guardians Speed-Trialist",
+    "description": "Kill the Grotesque Guardians in less than 2 minutes.",
+    "boss": "Grotesque Guardians",
+    "key": "grotesque guardians",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "grotesque guardians"
+    ]
+  },
+  {
+    "id": 95,
+    "tier": "Elite",
+    "name": "From Dusk...",
+    "description": "Kill the Grotesque Guardians 10 times without leaving the instance.",
+    "boss": "Grotesque Guardians",
+    "key": "grotesque guardians",
+    "total": 0,
+    "minimum": 10,
+    "aliases": [
+      "grotesque guardians"
+    ]
+  },
+  {
+    "id": 126,
+    "tier": "Elite",
+    "name": "Plant-Based Diet",
+    "description": "Kill Hespori without losing any prayer points.",
+    "boss": "Hespori",
+    "key": "hespori",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "hespori"
+    ]
+  },
+  {
+    "id": 127,
+    "tier": "Elite",
+    "name": "Hespori Speed-Trialist",
+    "description": "Kill the Hespori in less than 48 seconds.",
+    "boss": "Hespori",
+    "key": "hespori",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "hespori"
+    ]
+  },
+  {
+    "id": 135,
+    "tier": "Elite",
+    "name": "Alchemical Veteran",
+    "description": "Kill the Alchemical Hydra 75 times.",
+    "boss": "Alchemical Hydra",
+    "key": "alchemical hydra",
+    "total": 75,
+    "minimum": 0,
+    "aliases": [
+      "alchemical hydra",
+      "the alchemical hydra"
+    ]
+  },
+  {
+    "id": 158,
+    "tier": "Elite",
+    "name": "Kalphite Queen Veteran",
+    "description": "Kill the Kalphite Queen 50 times.",
+    "boss": "Kalphite Queen",
+    "key": "kalphite queen",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "kalphite queen",
+      "the kalphite queen"
+    ]
+  },
+  {
+    "id": 160,
+    "tier": "Elite",
+    "name": "Insect Deflection",
+    "description": "Kill the Kalphite Queen by using the Vengeance spell as the finishing blow.",
+    "boss": "Kalphite Queen",
+    "key": "kalphite queen",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "kalphite queen"
+    ]
+  },
+  {
+    "id": 161,
+    "tier": "Elite",
+    "name": "Prayer Smasher",
+    "description": "Kill the Kalphite Queen using only the Verac's Flail as a weapon.",
+    "boss": "Kalphite Queen",
+    "key": "kalphite queen",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "kalphite queen"
+    ]
+  },
+  {
+    "id": 171,
+    "tier": "Elite",
+    "name": "Ten-tacles",
+    "description": "Kill the Kraken 50 times in a privately rented instance without leaving the room.",
+    "boss": "Kraken",
+    "key": "kraken",
+    "total": 0,
+    "minimum": 50,
+    "aliases": [
+      "kraken"
+    ]
+  },
+  {
+    "id": 176,
+    "tier": "Elite",
+    "name": "Mimic Veteran",
+    "description": "Kill the Mimic once.",
+    "boss": "Mimic",
+    "key": "mimic",
+    "total": 1,
+    "minimum": 0,
+    "aliases": [
+      "mimic",
+      "the mimic"
+    ]
+  },
+  {
+    "id": 180,
+    "tier": "Elite",
+    "name": "Hard Hitter",
+    "description": "Kill the Giant Mole with 4 or fewer instances of damage.",
+    "boss": "Giant Mole",
+    "key": "giant mole",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "giant mole"
+    ]
+  },
+  {
+    "id": 184,
+    "tier": "Elite",
+    "name": "Nightmare Veteran",
+    "description": "Kill The Nightmare 25 times.",
+    "boss": "The Nightmare",
+    "key": "nightmare",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "nightmare",
+      "the nightmare"
+    ]
+  },
+  {
+    "id": 189,
+    "tier": "Elite",
+    "name": "Sleep Tight",
+    "description": "Kill the Nightmare solo.",
+    "boss": "The Nightmare",
+    "key": "nightmare",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nightmare",
+      "the nightmare"
+    ]
+  },
+  {
+    "id": 191,
+    "tier": "Elite",
+    "name": "Nightmare (Solo) Speed-Trialist",
+    "description": "Defeat the Nightmare (Solo) in less than 23 minutes.",
+    "boss": "The Nightmare",
+    "key": "nightmare",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nightmare",
+      "the nightmare"
+    ]
+  },
+  {
+    "id": 194,
+    "tier": "Elite",
+    "name": "Nightmare (5-Scale) Speed-Trialist",
+    "description": "Defeat the Nightmare (5-scale) in less than 5 minutes.",
+    "boss": "The Nightmare",
+    "key": "nightmare",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nightmare",
+      "the nightmare"
+    ]
+  },
+  {
+    "id": 199,
+    "tier": "Elite",
+    "name": "Death to the Seer King",
+    "description": "Kill Dagannoth Prime whilst under attack by Dagannoth Supreme and Dagannoth Rex.",
+    "boss": "Dagannoth Prime",
+    "key": "dagannoth prime",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "dagannoth prime"
+    ]
+  },
+  {
+    "id": 203,
+    "tier": "Elite",
+    "name": "Death to the Warrior King",
+    "description": "Kill Dagannoth Rex whilst under attack by Dagannoth Supreme and Dagannoth Prime.",
+    "boss": "Dagannoth Rex",
+    "key": "dagannoth rex",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "dagannoth rex"
+    ]
+  },
+  {
+    "id": 205,
+    "tier": "Elite",
+    "name": "Toppling the Diarchy",
+    "description": "Kill Dagannoth Rex and one other Dagannoth king at the exact same time.",
+    "boss": "Dagannoth Rex",
+    "key": "dagannoth rex",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "dagannoth rex"
+    ]
+  },
+  {
+    "id": 212,
+    "tier": "Elite",
+    "name": "Commander Zilyana Veteran",
+    "description": "Kill Commander Zilyana 100 times.",
+    "boss": "Commander Zilyana",
+    "key": "commander zilyana",
+    "total": 100,
+    "minimum": 0,
+    "aliases": [
+      "commander zilyana"
+    ]
+  },
+  {
+    "id": 216,
+    "tier": "Elite",
+    "name": "Reminisce",
+    "description": "Kill Commander Zilyana in a privately rented instance with melee only.",
+    "boss": "Commander Zilyana",
+    "key": "commander zilyana",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "commander zilyana"
+    ]
+  },
+  {
+    "id": 219,
+    "tier": "Elite",
+    "name": "Scorpia Veteran",
+    "description": "Kill Scorpia 25 times.",
+    "boss": "Scorpia",
+    "key": "scorpia",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "scorpia"
+    ]
+  },
+  {
+    "id": 225,
+    "tier": "Elite",
+    "name": "Zulrah Veteran",
+    "description": "Kill Zulrah 75 times.",
+    "boss": "Zulrah",
+    "key": "zulrah",
+    "total": 75,
+    "minimum": 0,
+    "aliases": [
+      "zulrah"
+    ]
+  },
+  {
+    "id": 227,
+    "tier": "Elite",
+    "name": "Snake Rebound",
+    "description": "Kill Zulrah by using the Vengeance spell as the finishing blow.",
+    "boss": "Zulrah",
+    "key": "zulrah",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "zulrah"
+    ]
+  },
+  {
+    "id": 230,
+    "tier": "Elite",
+    "name": "Zulrah Speed-Trialist",
+    "description": "Kill Zulrah in less than 1 minute 20 seconds, without a slayer task.",
+    "boss": "Zulrah",
+    "key": "zulrah",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "zulrah"
+    ]
+  },
+  {
+    "id": 235,
+    "tier": "Elite",
+    "name": "Death to the Archer King",
+    "description": "Kill Dagannoth Supreme whilst under attack by Dagannoth Prime and Dagannoth Rex.",
+    "boss": "Dagannoth Supreme",
+    "key": "dagannoth supreme",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "dagannoth supreme"
+    ]
+  },
+  {
+    "id": 261,
+    "tier": "Elite",
+    "name": "Thermonuclear Veteran",
+    "description": "Kill the Thermonuclear Smoke Devil 20 times.",
+    "boss": "Thermonuclear Smoke Devil",
+    "key": "thermonuclear smoke devil",
+    "total": 20,
+    "minimum": 0,
+    "aliases": [
+      "the thermonuclear smoke devil",
+      "thermonuclear smoke devil"
+    ]
+  },
+  {
+    "id": 262,
+    "tier": "Elite",
+    "name": "Hazard Prevention",
+    "description": "Kill the Thermonuclear Smoke Devil without it hitting anyone.",
+    "boss": "Thermonuclear Smoke Devil",
+    "key": "thermonuclear smoke devil",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "thermonuclear smoke devil"
+    ]
+  },
+  {
+    "id": 263,
+    "tier": "Elite",
+    "name": "Spec'd Out",
+    "description": "Kill the Thermonuclear Smoke Devil using only special attacks.",
+    "boss": "Thermonuclear Smoke Devil",
+    "key": "thermonuclear smoke devil",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "thermonuclear smoke devil"
+    ]
+  },
+  {
+    "id": 265,
+    "tier": "Elite",
+    "name": "Venenatis Veteran",
+    "description": "Kill Venenatis 20 times.",
+    "boss": "Venenatis",
+    "key": "venenatis",
+    "total": 20,
+    "minimum": 0,
+    "aliases": [
+      "venenatis"
+    ]
+  },
+  {
+    "id": 267,
+    "tier": "Elite",
+    "name": "Vet'eran",
+    "description": "Kill Vet'ion 20 times.",
+    "boss": "Vet'ion",
+    "key": "vet'ion",
+    "total": 20,
+    "minimum": 0,
+    "aliases": [
+      "vet'ion"
+    ]
+  },
+  {
+    "id": 268,
+    "tier": "Elite",
+    "name": "Vorkath Veteran",
+    "description": "Kill Vorkath 50 times.",
+    "boss": "Vorkath",
+    "key": "vorkath",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "vorkath"
+    ]
+  },
+  {
+    "id": 273,
+    "tier": "Elite",
+    "name": "Stick 'em With the Pointy End",
+    "description": "Kill Vorkath using melee weapons only.",
+    "boss": "Vorkath",
+    "key": "vorkath",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "vorkath"
+    ]
+  },
+  {
+    "id": 328,
+    "tier": "Elite",
+    "name": "Zalcano Veteran",
+    "description": "Kill Zalcano 25 times.",
+    "boss": "Zalcano",
+    "key": "zalcano",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "zalcano"
+    ]
+  },
+  {
+    "id": 329,
+    "tier": "Elite",
+    "name": "Perfect Zalcano",
+    "description": "Kill Zalcano 5 times in a row without leaving or getting hit by the following: Falling rocks, rock explosions, Zalcano powering up, or standing in a red symbol.",
+    "boss": "Zalcano",
+    "key": "zalcano",
+    "total": 0,
+    "minimum": 5,
+    "aliases": [
+      "zalcano"
+    ]
+  },
+  {
+    "id": 331,
+    "tier": "Elite",
+    "name": "The Spurned Hero",
+    "description": "Kill Zalcano as the player who has dealt the most damage to her.",
+    "boss": "Zalcano",
+    "key": "zalcano",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "zalcano"
+    ]
+  },
+  {
+    "id": 333,
+    "tier": "Elite",
+    "name": "K'ril Tsutsaroth Veteran",
+    "description": "Kill K'ril Tsutsaroth 100 times.",
+    "boss": "K'ril Tsutsaroth",
+    "key": "k'ril tsutsaroth",
+    "total": 100,
+    "minimum": 0,
+    "aliases": [
+      "k'ril tsutsaroth"
+    ]
+  },
+  {
+    "id": 337,
+    "tier": "Elite",
+    "name": "Demonic Defence",
+    "description": "Kill K'ril Tsutsaroth in a privately rented instance without taking any of his melee hits.",
+    "boss": "K'ril Tsutsaroth",
+    "key": "k'ril tsutsaroth",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "k'ril tsutsaroth"
+    ]
+  },
+  {
+    "id": 336,
+    "tier": "Elite",
+    "name": "The Bane of Demons",
+    "description": "Defeat K'ril Tsutsaroth in a privately rented instance using only demonbane spells.",
+    "boss": "K'ril Tsutsaroth",
+    "key": "k'ril tsutsaroth",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "k'ril tsutsaroth"
+    ]
+  },
+  {
+    "id": 400,
+    "tier": "Elite",
+    "name": "Phosani's Veteran",
+    "description": "Kill Phosani's Nightmare once.",
+    "boss": "Phosani's Nightmare",
+    "key": "phosani's nightmare",
+    "total": 1,
+    "minimum": 0,
+    "aliases": [
+      "phosani's nightmare"
+    ]
+  },
+  {
+    "id": 410,
+    "tier": "Elite",
+    "name": "Nex Veteran",
+    "description": "Kill Nex once.",
+    "boss": "Nex",
+    "key": "nex",
+    "total": 1,
+    "minimum": 0,
+    "aliases": [
+      "nex"
+    ]
+  },
+  {
+    "id": 412,
+    "tier": "Elite",
+    "name": "Nex Survivors",
+    "description": "Kill Nex without anyone dying.",
+    "boss": "Nex",
+    "key": "nex",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nex"
+    ]
+  },
+  {
+    "id": 475,
+    "tier": "Elite",
+    "name": "Phantom Muspah Speed-Trialist",
+    "description": "Kill the Phantom Muspah in less than 3 minutes without a slayer task.",
+    "boss": "Phantom Muspah",
+    "key": "phantom muspah",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "phantom muspah"
+    ]
+  },
+  {
+    "id": 479,
+    "tier": "Elite",
+    "name": "Phantom Muspah Veteran",
+    "description": "Kill the Phantom Muspah 25 times.",
+    "boss": "Phantom Muspah",
+    "key": "phantom muspah",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "phantom muspah",
+      "the phantom muspah"
+    ]
+  },
+  {
+    "id": 473,
+    "tier": "Elite",
+    "name": "Can't Escape",
+    "description": "Kill the Phantom Muspah without running.",
+    "boss": "Phantom Muspah",
+    "key": "phantom muspah",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "phantom muspah"
+    ]
+  },
+  {
+    "id": 515,
+    "tier": "Elite",
+    "name": "Duke Sucellus Adept",
+    "description": "Kill Duke Sucellus once.",
+    "boss": "Duke Sucellus",
+    "key": "duke sucellus",
+    "total": 1,
+    "minimum": 0,
+    "aliases": [
+      "duke sucellus"
+    ]
+  },
+  {
+    "id": 488,
+    "tier": "Elite",
+    "name": "Vardorvis Adept",
+    "description": "Kill Vardorvis once.",
+    "boss": "Vardorvis",
+    "key": "vardorvis",
+    "total": 1,
+    "minimum": 0,
+    "aliases": [
+      "vardorvis"
+    ]
+  },
+  {
+    "id": 497,
+    "tier": "Elite",
+    "name": "Whisperer Adept",
+    "description": "Kill the Whisperer once.",
+    "boss": "The Whisperer",
+    "key": "whisperer",
+    "total": 1,
+    "minimum": 0,
+    "aliases": [
+      "the whisperer",
+      "whisperer"
+    ]
+  },
+  {
+    "id": 506,
+    "tier": "Elite",
+    "name": "Leviathan Adept",
+    "description": "Kill the Leviathan once.",
+    "boss": "The Leviathan",
+    "key": "leviathan",
+    "total": 1,
+    "minimum": 0,
+    "aliases": [
+      "leviathan",
+      "the leviathan"
+    ]
+  },
+  {
+    "id": 512,
+    "tier": "Elite",
+    "name": "Duke Sucellus Speed-Trialist",
+    "description": "Kill Duke Sucellus in less than 1:00 minutes without a slayer task.",
+    "boss": "Duke Sucellus",
+    "key": "duke sucellus",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "duke sucellus"
+    ]
+  },
+  {
+    "id": 485,
+    "tier": "Elite",
+    "name": "Vardorvis Speed-Trialist",
+    "description": "Kill Vardorvis in less than 1:15 minutes without a slayer task.",
+    "boss": "Vardorvis",
+    "key": "vardorvis",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "vardorvis"
+    ]
+  },
+  {
+    "id": 494,
+    "tier": "Elite",
+    "name": "Whisperer Speed-Trialist",
+    "description": "Kill the Whisperer in less than 3:00 without a slayer task.",
+    "boss": "The Whisperer",
+    "key": "whisperer",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "the whisperer",
+      "whisperer"
+    ]
+  },
+  {
+    "id": 503,
+    "tier": "Elite",
+    "name": "Leviathan Speed-Trialist",
+    "description": "Kill the Leviathan in less than 1:50 without a slayer task.",
+    "boss": "The Leviathan",
+    "key": "leviathan",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "leviathan",
+      "the leviathan"
+    ]
+  },
+  {
+    "id": 501,
+    "tier": "Elite",
+    "name": "Tentacular",
+    "description": "Kill the Whisperer whilst only being on the Arceuus spellbook.",
+    "boss": "The Whisperer",
+    "key": "whisperer",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "the whisperer",
+      "whisperer"
+    ]
+  },
+  {
+    "id": 556,
+    "tier": "Elite",
+    "name": "Araxxor Veteran",
+    "description": "Kill Araxxor 25 times.",
+    "boss": "Araxxor",
+    "key": "araxxor",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "araxxor"
+    ]
+  },
+  {
+    "id": 564,
+    "tier": "Elite",
+    "name": "Relaxxor",
+    "description": "Kill Araxxor after destroying six eggs.",
+    "boss": "Araxxor",
+    "key": "araxxor",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "araxxor"
+    ]
+  },
+  {
+    "id": 558,
+    "tier": "Elite",
+    "name": "Araxxor Speed-Trialist",
+    "description": "Kill Araxxor 4 times in 10:00.",
+    "boss": "Araxxor",
+    "key": "araxxor",
+    "total": 0,
+    "minimum": 4,
+    "aliases": [
+      "araxxor"
+    ]
+  },
+  {
+    "id": 576,
+    "tier": "Elite",
+    "name": "Hueycoatl Speed-Trialist",
+    "description": "Kill the Hueycoatl in 2:30",
+    "boss": "The Hueycoatl",
+    "key": "hueycoatl",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "hueycoatl",
+      "the hueycoatl"
+    ]
+  },
+  {
+    "id": 570,
+    "tier": "Elite",
+    "name": "Hueycoatl Veteran",
+    "description": "Kill the Hueycoatl 25 times.",
+    "boss": "The Hueycoatl",
+    "key": "hueycoatl",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "hueycoatl",
+      "the hueycoatl"
+    ]
+  },
+  {
+    "id": 571,
+    "tier": "Elite",
+    "name": "Perfect Hueycoatl",
+    "description": "Kill the Hueycoatl perfectly 5 times without leaving. To get a perfect kill, you must not take any avoidable damage from the Hueycoatl's lightning attack, tail slam attack or off-prayer projectile attacks.",
+    "boss": "The Hueycoatl",
+    "key": "hueycoatl",
+    "total": 0,
+    "minimum": 5,
+    "aliases": [
+      "hueycoatl",
+      "the hueycoatl"
+    ]
+  },
+  {
+    "id": 582,
+    "tier": "Elite",
+    "name": "Amoxliatl Speed-Chaser",
+    "description": "Kill Amoxliatl in less than 30 seconds.",
+    "boss": "Amoxliatl",
+    "key": "amoxliatl",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "amoxliatl"
+    ]
+  },
+  {
+    "id": 585,
+    "tier": "Elite",
+    "name": "Without Ralos' Light",
+    "description": "Kill Amoxliatl without losing any prayer points.",
+    "boss": "Amoxliatl",
+    "key": "amoxliatl",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "amoxliatl"
+    ]
+  },
+  {
+    "id": 596,
+    "tier": "Elite",
+    "name": "No time to pray",
+    "description": "Kill the Royal Titans without losing any prayer points.",
+    "boss": "Royal Titans",
+    "key": "royal titans",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "royal titans"
+    ]
+  },
+  {
+    "id": 599,
+    "tier": "Elite",
+    "name": "Yama Adept",
+    "description": "Defeat Yama once.",
+    "boss": "Yama",
+    "key": "yama",
+    "total": 1,
+    "minimum": 0,
+    "aliases": [
+      "yama"
+    ]
+  },
+  {
+    "id": 601,
+    "tier": "Elite",
+    "name": "Yama Speed-Trialist",
+    "description": "Defeat Yama in an average time of under 3:38 over your last four kills.",
+    "boss": "Yama",
+    "key": "yama",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "yama"
+    ]
+  },
+  {
+    "id": 607,
+    "tier": "Elite",
+    "name": "Back so soon?",
+    "description": "Defeat Yama without the judge being attacked with the wrong style and without taking more than one instance of damage each time you are exiled from the arena.",
+    "boss": "Yama",
+    "key": "yama",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "yama"
+    ]
+  },
+  {
+    "id": 634,
+    "tier": "Elite",
+    "name": "Brutus Speed-Trialist",
+    "description": "Kill Brutus in less than 2 seconds.",
+    "boss": "Brutus",
+    "key": "brutus",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "brutus"
+    ]
+  },
+  {
+    "id": 638,
+    "tier": "Elite",
+    "name": "Maggot Exterminator",
+    "description": "Kill the Maggot King 25 times.",
+    "boss": "Maggot King",
+    "key": "maggot king",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "maggot king",
+      "the maggot king"
+    ]
+  },
+  {
+    "id": 641,
+    "tier": "Elite",
+    "name": "Trying to fit in",
+    "description": "Kill the Maggot King using only weapons that can be found in Vampyrium.",
+    "boss": "Maggot King",
+    "key": "maggot king",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "maggot king"
+    ]
+  },
+  {
+    "id": 649,
+    "tier": "Elite",
+    "name": "This Is Madness",
+    "description": "Kill the Mad Angel 15 times without leaving her arena.",
+    "boss": "The Mad Angel",
+    "key": "mad angel",
+    "total": 0,
+    "minimum": 15,
+    "aliases": [
+      "mad angel",
+      "the mad angel"
+    ]
+  },
+  {
+    "id": 654,
+    "tier": "Elite",
+    "name": "The Pen Is Mightier",
+    "description": "Kill the Mad Angel without equipping any weapon.",
+    "boss": "The Mad Angel",
+    "key": "mad angel",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "mad angel",
+      "the mad angel"
+    ]
+  },
+  {
+    "id": 11,
+    "tier": "Master",
+    "name": "Collateral Damage",
+    "description": "Kill Kree'arra in a privately rented instance without ever attacking him directly.",
+    "boss": "Kree'arra",
+    "key": "kree'arra",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "kree'arra"
+    ]
+  },
+  {
+    "id": 13,
+    "tier": "Master",
+    "name": "Swoop No More",
+    "description": "Kill Kree'arra in a privately rented instance without taking any melee damage from the boss or his bodyguards.",
+    "boss": "Kree'arra",
+    "key": "kree'arra",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "kree'arra"
+    ]
+  },
+  {
+    "id": 50,
+    "tier": "Master",
+    "name": "Precise Positioning",
+    "description": "Kill Skotizo with the final source of damage being a Chinchompa explosion.",
+    "boss": "Skotizo",
+    "key": "skotizo",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "skotizo"
+    ]
+  },
+  {
+    "id": 52,
+    "tier": "Master",
+    "name": "Cerberus Master",
+    "description": "Kill Cerberus 150 times.",
+    "boss": "Cerberus",
+    "key": "cerberus",
+    "total": 150,
+    "minimum": 0,
+    "aliases": [
+      "cerberus"
+    ]
+  },
+  {
+    "id": 53,
+    "tier": "Master",
+    "name": "Arooo No More",
+    "description": "Kill Cerberus without any of the Summoned Souls being spawned.",
+    "boss": "Cerberus",
+    "key": "cerberus",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "cerberus"
+    ]
+  },
+  {
+    "id": 66,
+    "tier": "Master",
+    "name": "Corporeal Beast Master",
+    "description": "Kill the Corporeal Beast 50 times.",
+    "boss": "Corporeal Beast",
+    "key": "corporeal beast",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "corporeal beast",
+      "the corporeal beast"
+    ]
+  },
+  {
+    "id": 91,
+    "tier": "Master",
+    "name": "Perfect Grotesque Guardians II",
+    "description": "Kill the Grotesque Guardians 5 times in a row without leaving the instance, whilst completing the Perfect Grotesque Guardians task every time.",
+    "boss": "Grotesque Guardians",
+    "key": "grotesque guardians",
+    "total": 0,
+    "minimum": 5,
+    "aliases": [
+      "grotesque guardians"
+    ]
+  },
+  {
+    "id": 93,
+    "tier": "Master",
+    "name": "Grotesque Guardians Speed-Chaser",
+    "description": "Kill the Grotesque Guardians in less than 1:40 minutes.",
+    "boss": "Grotesque Guardians",
+    "key": "grotesque guardians",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "grotesque guardians"
+    ]
+  },
+  {
+    "id": 96,
+    "tier": "Master",
+    "name": "... 'til Dawn",
+    "description": "Kill the Grotesque Guardians 20 times without leaving the instance.",
+    "boss": "Grotesque Guardians",
+    "key": "grotesque guardians",
+    "total": 0,
+    "minimum": 20,
+    "aliases": [
+      "grotesque guardians"
+    ]
+  },
+  {
+    "id": 128,
+    "tier": "Master",
+    "name": "Hespori Speed-Chaser",
+    "description": "Kill the Hespori in less than 36 seconds.",
+    "boss": "Hespori",
+    "key": "hespori",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "hespori"
+    ]
+  },
+  {
+    "id": 136,
+    "tier": "Master",
+    "name": "Alchemical Master",
+    "description": "Kill the Alchemical Hydra 150 times.",
+    "boss": "Alchemical Hydra",
+    "key": "alchemical hydra",
+    "total": 150,
+    "minimum": 0,
+    "aliases": [
+      "alchemical hydra",
+      "the alchemical hydra"
+    ]
+  },
+  {
+    "id": 137,
+    "tier": "Master",
+    "name": "Unrequired Antipoisons",
+    "description": "Kill the Alchemical Hydra without being hit by the acid pool attack.",
+    "boss": "Alchemical Hydra",
+    "key": "alchemical hydra",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "alchemical hydra"
+    ]
+  },
+  {
+    "id": 138,
+    "tier": "Master",
+    "name": "Lightning Lure",
+    "description": "Kill the Alchemical Hydra without being hit by the lightning attack.",
+    "boss": "Alchemical Hydra",
+    "key": "alchemical hydra",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "alchemical hydra"
+    ]
+  },
+  {
+    "id": 139,
+    "tier": "Master",
+    "name": "Don't Flame Me",
+    "description": "Kill the Alchemical Hydra without being hit by the flame wall attack.",
+    "boss": "Alchemical Hydra",
+    "key": "alchemical hydra",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "alchemical hydra"
+    ]
+  },
+  {
+    "id": 140,
+    "tier": "Master",
+    "name": "Mixing Correctly",
+    "description": "Kill the Alchemical Hydra without empowering it.",
+    "boss": "Alchemical Hydra",
+    "key": "alchemical hydra",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "alchemical hydra"
+    ]
+  },
+  {
+    "id": 141,
+    "tier": "Master",
+    "name": "The Flame Skipper",
+    "description": "Kill the Alchemical Hydra without letting it spawn a flame wall attack.",
+    "boss": "Alchemical Hydra",
+    "key": "alchemical hydra",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "alchemical hydra"
+    ]
+  },
+  {
+    "id": 142,
+    "tier": "Master",
+    "name": "Alcleanical Hydra",
+    "description": "Kill the Alchemical Hydra without taking any damage.",
+    "boss": "Alchemical Hydra",
+    "key": "alchemical hydra",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "alchemical hydra"
+    ]
+  },
+  {
+    "id": 144,
+    "tier": "Master",
+    "name": "Alchemical Speed-Chaser",
+    "description": "Kill the Alchemical Hydra in less than 1 minute 45 seconds.",
+    "boss": "Alchemical Hydra",
+    "key": "alchemical hydra",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "alchemical hydra"
+    ]
+  },
+  {
+    "id": 146,
+    "tier": "Master",
+    "name": "Working Overtime",
+    "description": "Kill the Alchemical Hydra 15 times without leaving the room.",
+    "boss": "Alchemical Hydra",
+    "key": "alchemical hydra",
+    "total": 0,
+    "minimum": 15,
+    "aliases": [
+      "alchemical hydra"
+    ]
+  },
+  {
+    "id": 172,
+    "tier": "Master",
+    "name": "One Hundred Tentacles",
+    "description": "Kill the Kraken 100 times in a privately rented instance without leaving the room.",
+    "boss": "Kraken",
+    "key": "kraken",
+    "total": 0,
+    "minimum": 100,
+    "aliases": [
+      "kraken"
+    ]
+  },
+  {
+    "id": 185,
+    "tier": "Master",
+    "name": "Nightmare Master",
+    "description": "Kill The Nightmare 50 times.",
+    "boss": "The Nightmare",
+    "key": "nightmare",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "nightmare",
+      "the nightmare"
+    ]
+  },
+  {
+    "id": 188,
+    "tier": "Master",
+    "name": "Perfect Nightmare",
+    "description": "Kill the Nightmare without any player taking damage from the following attacks: Nightmare rifts, an un-cured parasite explosion, Corpse flowers or the Nightmare's Surge. Also, no player can take damage off prayer or have their attacks slowed by the Nightmare spores.",
+    "boss": "The Nightmare",
+    "key": "nightmare",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nightmare",
+      "the nightmare"
+    ]
+  },
+  {
+    "id": 192,
+    "tier": "Master",
+    "name": "Nightmare (Solo) Speed-Chaser",
+    "description": "Defeat the Nightmare (Solo) in less than 19 minutes.",
+    "boss": "The Nightmare",
+    "key": "nightmare",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nightmare",
+      "the nightmare"
+    ]
+  },
+  {
+    "id": 195,
+    "tier": "Master",
+    "name": "Nightmare (5-Scale) Speed-Chaser",
+    "description": "Defeat the Nightmare (5-scale) in less than 4 minutes.",
+    "boss": "The Nightmare",
+    "key": "nightmare",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nightmare",
+      "the nightmare"
+    ]
+  },
+  {
+    "id": 215,
+    "tier": "Master",
+    "name": "Moving Collateral",
+    "description": "Kill Commander Zilyana in a privately rented instance without attacking her directly.",
+    "boss": "Commander Zilyana",
+    "key": "commander zilyana",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "commander zilyana"
+    ]
+  },
+  {
+    "id": 226,
+    "tier": "Master",
+    "name": "Zulrah Master",
+    "description": "Kill Zulrah 150 times.",
+    "boss": "Zulrah",
+    "key": "zulrah",
+    "total": 150,
+    "minimum": 0,
+    "aliases": [
+      "zulrah"
+    ]
+  },
+  {
+    "id": 229,
+    "tier": "Master",
+    "name": "Perfect Zulrah",
+    "description": "Kill Zulrah whilst taking no damage from the following: Snakelings, Venom Clouds, Zulrah's Green or Crimson phase.",
+    "boss": "Zulrah",
+    "key": "zulrah",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "zulrah"
+    ]
+  },
+  {
+    "id": 231,
+    "tier": "Master",
+    "name": "Zulrah Speed-Chaser",
+    "description": "Kill Zulrah in less than 1 minute, without a slayer task.",
+    "boss": "Zulrah",
+    "key": "zulrah",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "zulrah"
+    ]
+  },
+  {
+    "id": 269,
+    "tier": "Master",
+    "name": "Vorkath Master",
+    "description": "Kill Vorkath 100 times.",
+    "boss": "Vorkath",
+    "key": "vorkath",
+    "total": 100,
+    "minimum": 0,
+    "aliases": [
+      "vorkath"
+    ]
+  },
+  {
+    "id": 272,
+    "tier": "Master",
+    "name": "Dodging the Dragon",
+    "description": "Kill Vorkath 5 times without taking any damage from his special attacks and without leaving his area.",
+    "boss": "Vorkath",
+    "key": "vorkath",
+    "total": 0,
+    "minimum": 5,
+    "aliases": [
+      "vorkath"
+    ]
+  },
+  {
+    "id": 276,
+    "tier": "Master",
+    "name": "Vorkath Speed-Chaser",
+    "description": "Kill Vorkath in less than 1 minute and 15 seconds.",
+    "boss": "Vorkath",
+    "key": "vorkath",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "vorkath"
+    ]
+  },
+  {
+    "id": 278,
+    "tier": "Master",
+    "name": "Extended Encounter",
+    "description": "Kill Vorkath 10 times without leaving his area.",
+    "boss": "Vorkath",
+    "key": "vorkath",
+    "total": 0,
+    "minimum": 10,
+    "aliases": [
+      "vorkath"
+    ]
+  },
+  {
+    "id": 401,
+    "tier": "Master",
+    "name": "Phosani's Master",
+    "description": "Kill Phosani's Nightmare 5 times.",
+    "boss": "Phosani's Nightmare",
+    "key": "phosani's nightmare",
+    "total": 5,
+    "minimum": 0,
+    "aliases": [
+      "phosani's nightmare"
+    ]
+  },
+  {
+    "id": 404,
+    "tier": "Master",
+    "name": "Phosani's Speedchaser",
+    "description": "Kill Phosani's Nightmare within 7 minutes and 30 seconds",
+    "boss": "Phosani's Nightmare",
+    "key": "phosani's nightmare",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "phosani's nightmare"
+    ]
+  },
+  {
+    "id": 406,
+    "tier": "Master",
+    "name": "Crush Hour",
+    "description": "Kill Phosani's Nightmare while killing every husk and parasite in one hit.",
+    "boss": "Phosani's Nightmare",
+    "key": "phosani's nightmare",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "phosani's nightmare"
+    ]
+  },
+  {
+    "id": 407,
+    "tier": "Master",
+    "name": "I Would Simply React",
+    "description": "Kill Phosani's Nightmare without her disabling your prayer.",
+    "boss": "Phosani's Nightmare",
+    "key": "phosani's nightmare",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "phosani's nightmare"
+    ]
+  },
+  {
+    "id": 408,
+    "tier": "Master",
+    "name": "Dreamland Express",
+    "description": "Kill Phosani's Nightmare without letting a sleepwalker reach her during the desperation phase.",
+    "boss": "Phosani's Nightmare",
+    "key": "phosani's nightmare",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "phosani's nightmare"
+    ]
+  },
+  {
+    "id": 411,
+    "tier": "Master",
+    "name": "Nex Master",
+    "description": "Kill Nex 25 times.",
+    "boss": "Nex",
+    "key": "nex",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "nex"
+    ]
+  },
+  {
+    "id": 413,
+    "tier": "Master",
+    "name": "A siphon will solve this",
+    "description": "Kill Nex without letting her heal from her Blood Siphon special attack.",
+    "boss": "Nex",
+    "key": "nex",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nex"
+    ]
+  },
+  {
+    "id": 414,
+    "tier": "Master",
+    "name": "Contain this!",
+    "description": "Kill Nex without anyone taking damage from any Ice special attack.",
+    "boss": "Nex",
+    "key": "nex",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nex"
+    ]
+  },
+  {
+    "id": 415,
+    "tier": "Master",
+    "name": "There is no escape!",
+    "description": "Kill Nex without anyone being hit by the Smoke Dash special attack",
+    "boss": "Nex",
+    "key": "nex",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nex"
+    ]
+  },
+  {
+    "id": 416,
+    "tier": "Master",
+    "name": "Nex Trio",
+    "description": "Kill Nex with three or less players inside the arena at the start of the fight.",
+    "boss": "Nex",
+    "key": "nex",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nex"
+    ]
+  },
+  {
+    "id": 420,
+    "tier": "Master",
+    "name": "Shadows Move...",
+    "description": "Kill Nex without anyone being hit by the Shadow Smash attack.",
+    "boss": "Nex",
+    "key": "nex",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nex"
+    ]
+  },
+  {
+    "id": 472,
+    "tier": "Master",
+    "name": "More than just a ranged weapon",
+    "description": "Kill the Phantom Muspah by only dealing damage to it with a salamander.",
+    "boss": "Phantom Muspah",
+    "key": "phantom muspah",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "phantom muspah"
+    ]
+  },
+  {
+    "id": 474,
+    "tier": "Master",
+    "name": "Essence Farmer",
+    "description": "Kill the Phantom Muspah 10 times in one trip.",
+    "boss": "Phantom Muspah",
+    "key": "phantom muspah",
+    "total": 0,
+    "minimum": 10,
+    "aliases": [
+      "phantom muspah"
+    ]
+  },
+  {
+    "id": 476,
+    "tier": "Master",
+    "name": "Phantom Muspah Speed-Chaser",
+    "description": "Kill the Phantom Muspah in less than 2 minutes without a slayer task.",
+    "boss": "Phantom Muspah",
+    "key": "phantom muspah",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "phantom muspah"
+    ]
+  },
+  {
+    "id": 480,
+    "tier": "Master",
+    "name": "Phantom Muspah Master",
+    "description": "Kill the Phantom Muspah 50 times.",
+    "boss": "Phantom Muspah",
+    "key": "phantom muspah",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "phantom muspah",
+      "the phantom muspah"
+    ]
+  },
+  {
+    "id": 483,
+    "tier": "Master",
+    "name": "Walk Straight Pray True",
+    "description": "Kill the Phantom Muspah without taking any avoidable damage.",
+    "boss": "Phantom Muspah",
+    "key": "phantom muspah",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "phantom muspah"
+    ]
+  },
+  {
+    "id": 481,
+    "tier": "Master",
+    "name": "Space is Tight",
+    "description": "Kill the Phantom Muspah whilst it is surrounded by spikes.",
+    "boss": "Phantom Muspah",
+    "key": "phantom muspah",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "phantom muspah"
+    ]
+  },
+  {
+    "id": 500,
+    "tier": "Master",
+    "name": "Perfect Whisperer",
+    "description": "Kill the Whisperer without taking avoidable damage 5 times without leaving.",
+    "boss": "The Whisperer",
+    "key": "whisperer",
+    "total": 0,
+    "minimum": 5,
+    "aliases": [
+      "the whisperer",
+      "whisperer"
+    ]
+  },
+  {
+    "id": 516,
+    "tier": "Master",
+    "name": "Duke Sucellus Master",
+    "description": "Kill Duke Sucellus 50 times.",
+    "boss": "Duke Sucellus",
+    "key": "duke sucellus",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "duke sucellus"
+    ]
+  },
+  {
+    "id": 489,
+    "tier": "Master",
+    "name": "Vardorvis Master",
+    "description": "Kill Vardorvis 50 times.",
+    "boss": "Vardorvis",
+    "key": "vardorvis",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "vardorvis"
+    ]
+  },
+  {
+    "id": 498,
+    "tier": "Master",
+    "name": "Whisperer Master",
+    "description": "Kill the Whisperer 50 times.",
+    "boss": "The Whisperer",
+    "key": "whisperer",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "the whisperer",
+      "whisperer"
+    ]
+  },
+  {
+    "id": 507,
+    "tier": "Master",
+    "name": "Leviathan Master",
+    "description": "Kill the Leviathan 50 times.",
+    "boss": "The Leviathan",
+    "key": "leviathan",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "leviathan",
+      "the leviathan"
+    ]
+  },
+  {
+    "id": 513,
+    "tier": "Master",
+    "name": "Duke Sucellus Speed-Chaser",
+    "description": "Kill Duke Sucellus in less than 50 seconds without a slayer task.",
+    "boss": "Duke Sucellus",
+    "key": "duke sucellus",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "duke sucellus"
+    ]
+  },
+  {
+    "id": 486,
+    "tier": "Master",
+    "name": "Vardorvis Speed-Chaser",
+    "description": "Kill Vardorvis in less than 1:05 without a slayer task.",
+    "boss": "Vardorvis",
+    "key": "vardorvis",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "vardorvis"
+    ]
+  },
+  {
+    "id": 495,
+    "tier": "Master",
+    "name": "Whisperer Speed-Chaser",
+    "description": "Kill the Whisperer in less than 2:25 without a slayer task.",
+    "boss": "The Whisperer",
+    "key": "whisperer",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "the whisperer",
+      "whisperer"
+    ]
+  },
+  {
+    "id": 504,
+    "tier": "Master",
+    "name": "Leviathan Speed-Chaser",
+    "description": "Kill the Leviathan in less than 1:25 without a slayer task.",
+    "boss": "The Leviathan",
+    "key": "leviathan",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "leviathan",
+      "the leviathan"
+    ]
+  },
+  {
+    "id": 519,
+    "tier": "Master",
+    "name": "Cold Feet",
+    "description": "Kill Duke Sucellus without taking any avoidable damage, whilst also never running.",
+    "boss": "Duke Sucellus",
+    "key": "duke sucellus",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "duke sucellus"
+    ]
+  },
+  {
+    "id": 518,
+    "tier": "Master",
+    "name": "Perfect Duke Sucellus",
+    "description": "Kill Duke Sucellus without taking any avoidable damage 5 times without leaving.",
+    "boss": "Duke Sucellus",
+    "key": "duke sucellus",
+    "total": 0,
+    "minimum": 5,
+    "aliases": [
+      "duke sucellus"
+    ]
+  },
+  {
+    "id": 510,
+    "tier": "Master",
+    "name": "Serpentine Solo",
+    "description": "Kill the Leviathan without stunning the boss more than once.",
+    "boss": "The Leviathan",
+    "key": "leviathan",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "leviathan",
+      "the leviathan"
+    ]
+  },
+  {
+    "id": 509,
+    "tier": "Master",
+    "name": "Perfect Leviathan",
+    "description": "Kill the Leviathan perfectly 5 times without leaving.",
+    "boss": "The Leviathan",
+    "key": "leviathan",
+    "total": 0,
+    "minimum": 5,
+    "aliases": [
+      "leviathan",
+      "the leviathan"
+    ]
+  },
+  {
+    "id": 493,
+    "tier": "Master",
+    "name": "Budget Cutter",
+    "description": "Kill Vardorvis with gear worth 2m or less in total.",
+    "boss": "Vardorvis",
+    "key": "vardorvis",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "vardorvis"
+    ]
+  },
+  {
+    "id": 491,
+    "tier": "Master",
+    "name": "Perfect Vardorvis",
+    "description": "Kill Vardorvis perfectly 5 times without leaving.",
+    "boss": "Vardorvis",
+    "key": "vardorvis",
+    "total": 0,
+    "minimum": 5,
+    "aliases": [
+      "vardorvis"
+    ]
+  },
+  {
+    "id": 557,
+    "tier": "Master",
+    "name": "Araxxor Master",
+    "description": "Kill Araxxor 75 times.",
+    "boss": "Araxxor",
+    "key": "araxxor",
+    "total": 75,
+    "minimum": 0,
+    "aliases": [
+      "araxxor"
+    ]
+  },
+  {
+    "id": 559,
+    "tier": "Master",
+    "name": "Araxxor Speed-Chaser",
+    "description": "Kill Araxxor 5 times in 10:00.",
+    "boss": "Araxxor",
+    "key": "araxxor",
+    "total": 0,
+    "minimum": 5,
+    "aliases": [
+      "araxxor"
+    ]
+  },
+  {
+    "id": 561,
+    "tier": "Master",
+    "name": "Perfect Araxxor",
+    "description": "Kill Araxxor perfectly, without taking damage from Araxxor's Mage & Range attacks, melee attack off prayer, araxyte minions damage, or damage from acid pools.",
+    "boss": "Araxxor",
+    "key": "araxxor",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "araxxor"
+    ]
+  },
+  {
+    "id": 563,
+    "tier": "Master",
+    "name": "Let it seep in",
+    "description": "Kill Araxxor without ever having venom or poison immunity.",
+    "boss": "Araxxor",
+    "key": "araxxor",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "araxxor"
+    ]
+  },
+  {
+    "id": 567,
+    "tier": "Master",
+    "name": "Arachnid Lover",
+    "description": "Kill Araxxor 10 times without leaving.",
+    "boss": "Araxxor",
+    "key": "araxxor",
+    "total": 0,
+    "minimum": 10,
+    "aliases": [
+      "araxxor"
+    ]
+  },
+  {
+    "id": 573,
+    "tier": "Master",
+    "name": "Is it a bird?",
+    "description": "Kill the Hueycoatl using only dragonbane weaponry.",
+    "boss": "The Hueycoatl",
+    "key": "hueycoatl",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "hueycoatl",
+      "the hueycoatl"
+    ]
+  },
+  {
+    "id": 577,
+    "tier": "Master",
+    "name": "Hueycoatl Speed-Chaser",
+    "description": "Kill the Hueycoatl in 2:30 with five or fewer players.",
+    "boss": "The Hueycoatl",
+    "key": "hueycoatl",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "hueycoatl",
+      "the hueycoatl"
+    ]
+  },
+  {
+    "id": 600,
+    "tier": "Master",
+    "name": "Yama Veteran",
+    "description": "Defeat Yama 50 times.",
+    "boss": "Yama",
+    "key": "yama",
+    "total": 50,
+    "minimum": 0,
+    "aliases": [
+      "yama"
+    ]
+  },
+  {
+    "id": 602,
+    "tier": "Master",
+    "name": "Yama Speed-Chaser",
+    "description": "Defeat Yama in an average time of under 3:00 over your last four kills.",
+    "boss": "Yama",
+    "key": "yama",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "yama"
+    ]
+  },
+  {
+    "id": 604,
+    "tier": "Master",
+    "name": "No toppings, no drinks, thanks",
+    "description": "Defeat Yama without anybody healing using anything other than plain pizza and without anybody drinking any potions.",
+    "boss": "Yama",
+    "key": "yama",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "yama"
+    ]
+  },
+  {
+    "id": 605,
+    "tier": "Master",
+    "name": "Shadow dancer",
+    "description": "Defeat Yama without getting hit by shadows and without being more than one tile away from the center of his shadow crash attack.",
+    "boss": "Yama",
+    "key": "yama",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "yama"
+    ]
+  },
+  {
+    "id": 606,
+    "tier": "Master",
+    "name": "Fire fighter",
+    "description": "Defeat Yama without getting hit by fire and having only killed void flares with special attacks.",
+    "boss": "Yama",
+    "key": "yama",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "yama"
+    ]
+  },
+  {
+    "id": 639,
+    "tier": "Master",
+    "name": "Camping the King",
+    "description": "Kill the Maggot King 12 times without leaving the arena.",
+    "boss": "Maggot King",
+    "key": "maggot king",
+    "total": 0,
+    "minimum": 12,
+    "aliases": [
+      "maggot king"
+    ]
+  },
+  {
+    "id": 642,
+    "tier": "Master",
+    "name": "King-sized clobbering",
+    "description": "Kill the Maggot King without missing a single melee punish.",
+    "boss": "Maggot King",
+    "key": "maggot king",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "maggot king"
+    ]
+  },
+  {
+    "id": 643,
+    "tier": "Master",
+    "name": "Digging in",
+    "description": "Kill the Maggot King without moving more than 40 tiles.",
+    "boss": "Maggot King",
+    "key": "maggot king",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "maggot king"
+    ]
+  },
+  {
+    "id": 644,
+    "tier": "Master",
+    "name": "Cordoned Off",
+    "description": "Kill the Maggot King without moving beyond the back row of tiles.",
+    "boss": "Maggot King",
+    "key": "maggot king",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "maggot king"
+    ]
+  },
+  {
+    "id": 645,
+    "tier": "Master",
+    "name": "Perfect Maggot King",
+    "description": "Kill the Maggot King without taking any avoidable damage or him ever being healed.",
+    "boss": "Maggot King",
+    "key": "maggot king",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "maggot king"
+    ]
+  },
+  {
+    "id": 14,
+    "tier": "Grandmaster",
+    "name": "The Worst Ranged Weapon",
+    "description": "Kill Kree'arra by only dealing damage to him with a salamander.",
+    "boss": "Kree'arra",
+    "key": "kree'arra",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "kree'arra"
+    ]
+  },
+  {
+    "id": 15,
+    "tier": "Grandmaster",
+    "name": "Feather Hunter",
+    "description": "Kill Kree'arra 30 times in a privately rented instance without leaving the room.",
+    "boss": "Kree'arra",
+    "key": "kree'arra",
+    "total": 0,
+    "minimum": 30,
+    "aliases": [
+      "kree'arra"
+    ]
+  },
+  {
+    "id": 21,
+    "tier": "Grandmaster",
+    "name": "Defence Matters",
+    "description": "Kill General Graardor 2 times consecutively in a privately rented instance without taking any damage from his bodyguards.",
+    "boss": "General Graardor",
+    "key": "general graardor",
+    "total": 0,
+    "minimum": 2,
+    "aliases": [
+      "general graardor"
+    ]
+  },
+  {
+    "id": 22,
+    "tier": "Grandmaster",
+    "name": "Keep Away",
+    "description": "Kill General Graardor in a privately rented instance without taking any damage from the boss or bodyguards.",
+    "boss": "General Graardor",
+    "key": "general graardor",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "general graardor"
+    ]
+  },
+  {
+    "id": 23,
+    "tier": "Grandmaster",
+    "name": "Ourg Killer",
+    "description": "Kill General Graardor 15 times in a privately rented instance without leaving the room.",
+    "boss": "General Graardor",
+    "key": "general graardor",
+    "total": 0,
+    "minimum": 15,
+    "aliases": [
+      "general graardor"
+    ]
+  },
+  {
+    "id": 94,
+    "tier": "Grandmaster",
+    "name": "Grotesque Guardians Speed-Runner",
+    "description": "Kill the Grotesque Guardians in less than 1:20 minutes.",
+    "boss": "Grotesque Guardians",
+    "key": "grotesque guardians",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "grotesque guardians"
+    ]
+  },
+  {
+    "id": 143,
+    "tier": "Grandmaster",
+    "name": "No Pressure",
+    "description": "Kill the Alchemical Hydra using only Dharok's Greataxe as a weapon whilst having no more than 10 Hitpoints throughout the entire fight.",
+    "boss": "Alchemical Hydra",
+    "key": "alchemical hydra",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "alchemical hydra"
+    ]
+  },
+  {
+    "id": 145,
+    "tier": "Grandmaster",
+    "name": "Alchemical Speed-Runner",
+    "description": "Kill the Alchemical Hydra in less than 1 minute 20 seconds.",
+    "boss": "Alchemical Hydra",
+    "key": "alchemical hydra",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "alchemical hydra"
+    ]
+  },
+  {
+    "id": 186,
+    "tier": "Grandmaster",
+    "name": "Terrible Parent",
+    "description": "Kill the Nightmare solo without the Parasites healing the boss for more than 100 health.",
+    "boss": "The Nightmare",
+    "key": "nightmare",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nightmare",
+      "the nightmare"
+    ]
+  },
+  {
+    "id": 190,
+    "tier": "Grandmaster",
+    "name": "A Long Trip",
+    "description": "Kill the Nightmare without any player losing any prayer points.",
+    "boss": "The Nightmare",
+    "key": "nightmare",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nightmare",
+      "the nightmare"
+    ]
+  },
+  {
+    "id": 193,
+    "tier": "Grandmaster",
+    "name": "Nightmare (Solo) Speed-Runner",
+    "description": "Defeat the Nightmare (Solo) in less than 16 minutes.",
+    "boss": "The Nightmare",
+    "key": "nightmare",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nightmare",
+      "the nightmare"
+    ]
+  },
+  {
+    "id": 196,
+    "tier": "Grandmaster",
+    "name": "Nightmare (5-Scale) Speed-Runner",
+    "description": "Defeat the Nightmare (5-scale) in less than 3:30 minutes.",
+    "boss": "The Nightmare",
+    "key": "nightmare",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nightmare",
+      "the nightmare"
+    ]
+  },
+  {
+    "id": 214,
+    "tier": "Grandmaster",
+    "name": "Animal Whisperer",
+    "description": "Kill Commander Zilyana in a privately rented instance without taking any damage from the boss or bodyguards.",
+    "boss": "Commander Zilyana",
+    "key": "commander zilyana",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "commander zilyana"
+    ]
+  },
+  {
+    "id": 217,
+    "tier": "Grandmaster",
+    "name": "Peach Conjurer",
+    "description": "Kill Commander Zilyana 50 times in a privately rented instance without leaving the room.",
+    "boss": "Commander Zilyana",
+    "key": "commander zilyana",
+    "total": 0,
+    "minimum": 50,
+    "aliases": [
+      "commander zilyana"
+    ]
+  },
+  {
+    "id": 232,
+    "tier": "Grandmaster",
+    "name": "Zulrah Speed-Runner",
+    "description": "Kill Zulrah in less than 54 seconds, without a slayer task.",
+    "boss": "Zulrah",
+    "key": "zulrah",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "zulrah"
+    ]
+  },
+  {
+    "id": 274,
+    "tier": "Grandmaster",
+    "name": "Faithless Encounter",
+    "description": "Kill Vorkath without losing any prayer points.",
+    "boss": "Vorkath",
+    "key": "vorkath",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "vorkath"
+    ]
+  },
+  {
+    "id": 275,
+    "tier": "Grandmaster",
+    "name": "The Fremennik Way",
+    "description": "Kill Vorkath with only your fists.",
+    "boss": "Vorkath",
+    "key": "vorkath",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "vorkath"
+    ]
+  },
+  {
+    "id": 277,
+    "tier": "Grandmaster",
+    "name": "Vorkath Speed-Runner",
+    "description": "Kill Vorkath in less than 54 seconds.",
+    "boss": "Vorkath",
+    "key": "vorkath",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "vorkath"
+    ]
+  },
+  {
+    "id": 338,
+    "tier": "Grandmaster",
+    "name": "Demon Whisperer",
+    "description": "Kill K'ril Tsutsaroth in a privately rented instance without ever being hit by his bodyguards.",
+    "boss": "K'ril Tsutsaroth",
+    "key": "k'ril tsutsaroth",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "k'ril tsutsaroth"
+    ]
+  },
+  {
+    "id": 340,
+    "tier": "Grandmaster",
+    "name": "Ash Collector",
+    "description": "Kill K'ril Tsutsaroth 20 times in a privately rented instance without leaving the room.",
+    "boss": "K'ril Tsutsaroth",
+    "key": "k'ril tsutsaroth",
+    "total": 0,
+    "minimum": 20,
+    "aliases": [
+      "k'ril tsutsaroth"
+    ]
+  },
+  {
+    "id": 402,
+    "tier": "Grandmaster",
+    "name": "Phosani's Grandmaster",
+    "description": "Kill Phosani's Nightmare 25 times.",
+    "boss": "Phosani's Nightmare",
+    "key": "phosani's nightmare",
+    "total": 25,
+    "minimum": 0,
+    "aliases": [
+      "phosani's nightmare"
+    ]
+  },
+  {
+    "id": 403,
+    "tier": "Grandmaster",
+    "name": "Perfect Phosani's Nightmare",
+    "description": "Kill Phosani's Nightmare while only taking damage from husks, power blasts and weakened parasites. Also, without becoming infected by spores or letting a sleepwalker reach Phosani's Nightmare.",
+    "boss": "Phosani's Nightmare",
+    "key": "phosani's nightmare",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "phosani's nightmare"
+    ]
+  },
+  {
+    "id": 405,
+    "tier": "Grandmaster",
+    "name": "Phosani's Speedrunner",
+    "description": "Kill Phosani's Nightmare within 6 minutes.",
+    "boss": "Phosani's Nightmare",
+    "key": "phosani's nightmare",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "phosani's nightmare"
+    ]
+  },
+  {
+    "id": 409,
+    "tier": "Grandmaster",
+    "name": "Can't Wake Up",
+    "description": "Kill Phosani's Nightmare 5 times in a row without leaving Phosani's Dream.",
+    "boss": "Phosani's Nightmare",
+    "key": "phosani's nightmare",
+    "total": 0,
+    "minimum": 5,
+    "aliases": [
+      "phosani's nightmare"
+    ]
+  },
+  {
+    "id": 417,
+    "tier": "Grandmaster",
+    "name": "Nex Duo",
+    "description": "Kill Nex with two or less players inside the arena at the start of the fight.",
+    "boss": "Nex",
+    "key": "nex",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nex"
+    ]
+  },
+  {
+    "id": 418,
+    "tier": "Grandmaster",
+    "name": "I should see a doctor",
+    "description": "Kill Nex whilst a player is coughing.",
+    "boss": "Nex",
+    "key": "nex",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nex"
+    ]
+  },
+  {
+    "id": 419,
+    "tier": "Grandmaster",
+    "name": "Perfect Nex",
+    "description": "Kill Nex whilst completing the requirements for There is no escape, Shadows move, A siphon will solve this, and Contain this!",
+    "boss": "Nex",
+    "key": "nex",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "nex"
+    ]
+  },
+  {
+    "id": 484,
+    "tier": "Grandmaster",
+    "name": "Phantom Muspah Manipulator",
+    "description": "Kill the Phantom Muspah whilst completing Walk Straight Pray True, Space is Tight & Can't Escape.",
+    "boss": "Phantom Muspah",
+    "key": "phantom muspah",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "phantom muspah"
+    ]
+  },
+  {
+    "id": 477,
+    "tier": "Grandmaster",
+    "name": "Phantom Muspah Speed-Runner",
+    "description": "Kill the Phantom Muspah in less than 1 minute and 30 seconds without a slayer task.",
+    "boss": "Phantom Muspah",
+    "key": "phantom muspah",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "phantom muspah"
+    ]
+  },
+  {
+    "id": 514,
+    "tier": "Grandmaster",
+    "name": "Duke Sucellus Speed-Runner",
+    "description": "Kill Duke Sucellus in less than 40 seconds without a slayer task.",
+    "boss": "Duke Sucellus",
+    "key": "duke sucellus",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "duke sucellus"
+    ]
+  },
+  {
+    "id": 487,
+    "tier": "Grandmaster",
+    "name": "Vardorvis Speed-Runner",
+    "description": "Kill Vardorvis in less than 0:55 without a slayer task.",
+    "boss": "Vardorvis",
+    "key": "vardorvis",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "vardorvis"
+    ]
+  },
+  {
+    "id": 496,
+    "tier": "Grandmaster",
+    "name": "Whisperer Speed-Runner",
+    "description": "Kill the Whisperer in less than 2:05 without a slayer task.",
+    "boss": "The Whisperer",
+    "key": "whisperer",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "the whisperer",
+      "whisperer"
+    ]
+  },
+  {
+    "id": 505,
+    "tier": "Grandmaster",
+    "name": "Leviathan Speed-Runner",
+    "description": "Kill the Leviathan in less than 1:10 without a slayer task.",
+    "boss": "The Leviathan",
+    "key": "leviathan",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "leviathan",
+      "the leviathan"
+    ]
+  },
+  {
+    "id": 492,
+    "tier": "Grandmaster",
+    "name": "Axe Enthusiast",
+    "description": "Kill Vardorvis after surviving for 3 minutes of Vardorvis' max speed, and never leaving the centre 25 tiles.",
+    "boss": "Vardorvis",
+    "key": "vardorvis",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "vardorvis"
+    ]
+  },
+  {
+    "id": 511,
+    "tier": "Grandmaster",
+    "name": "Unconventional",
+    "description": "Kill the Leviathan using only Mithril ammunition whilst having no more than 25 Hitpoints throughout the entire fight.",
+    "boss": "The Leviathan",
+    "key": "leviathan",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "leviathan",
+      "the leviathan"
+    ]
+  },
+  {
+    "id": 502,
+    "tier": "Grandmaster",
+    "name": "Dark Memories",
+    "description": "Kill the Whisperer whilst spending less than 6 seconds in the pre-enrage shadow realm.",
+    "boss": "The Whisperer",
+    "key": "whisperer",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "the whisperer",
+      "whisperer"
+    ]
+  },
+  {
+    "id": 520,
+    "tier": "Grandmaster",
+    "name": "Mirror Image",
+    "description": "Kill Duke Sucellus whilst only attacking the boss on the same tick Duke attacks you.",
+    "boss": "Duke Sucellus",
+    "key": "duke sucellus",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "duke sucellus"
+    ]
+  },
+  {
+    "id": 560,
+    "tier": "Grandmaster",
+    "name": "Araxxor Speed-Runner",
+    "description": "Kill Araxxor 6 times in 10:00.",
+    "boss": "Araxxor",
+    "key": "araxxor",
+    "total": 0,
+    "minimum": 6,
+    "aliases": [
+      "araxxor"
+    ]
+  },
+  {
+    "id": 562,
+    "tier": "Grandmaster",
+    "name": "Perfect Araxxor 2",
+    "description": "Kill Araxxor perfectly, without hitting it during the enrage phase.",
+    "boss": "Araxxor",
+    "key": "araxxor",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "araxxor"
+    ]
+  },
+  {
+    "id": 565,
+    "tier": "Grandmaster",
+    "name": "Swimming in Venom",
+    "description": "Kill Araxxor without the boss ever moving.",
+    "boss": "Araxxor",
+    "key": "araxxor",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "araxxor"
+    ]
+  },
+  {
+    "id": 578,
+    "tier": "Grandmaster",
+    "name": "Hueycoatl Speed-Runner",
+    "description": "Kill the Hueycoatl in 2:30 with three or fewer players.",
+    "boss": "The Hueycoatl",
+    "key": "hueycoatl",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "hueycoatl",
+      "the hueycoatl"
+    ]
+  },
+  {
+    "id": 609,
+    "tier": "Grandmaster",
+    "name": "Contractually Unbound",
+    "description": "Defeat Yama under the elevated conditions of one of his non-standard contracts.",
+    "boss": "Yama",
+    "key": "yama",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "yama"
+    ]
+  },
+  {
+    "id": 603,
+    "tier": "Grandmaster",
+    "name": "Yama Speed-Runner",
+    "description": "Defeat Yama in an average time of under 2:34 over your last four kills.",
+    "boss": "Yama",
+    "key": "yama",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "yama"
+    ]
+  },
+  {
+    "id": 608,
+    "tier": "Grandmaster",
+    "name": "Contract Choreographer",
+    "description": "Defeat Yama whilst completing 'Shadow Dancer', 'Fire Fighter', 'Back so soon?' and without taking any other avoidable damage.",
+    "boss": "Yama",
+    "key": "yama",
+    "total": 0,
+    "minimum": 1,
+    "aliases": [
+      "yama"
+    ]
+  },
+  {
+    "id": 640,
+    "tier": "Grandmaster",
+    "name": "Maggot King Speed Chaser",
+    "description": "Complete the first 5 kills of the Maggot King within 9 minutes after entering the arena.",
+    "boss": "Maggot King",
+    "key": "maggot king",
+    "total": 0,
+    "minimum": 5,
+    "aliases": [
+      "maggot king",
+      "maggot king"
+    ]
+  }
+]

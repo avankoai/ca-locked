@@ -1,0 +1,11 @@
+build/
+test-home/
+.gradle/
+.idea/
+*.iml
+*.log
+.DS_Store
+research/
+tools/__pycache__/
+notes/
+.gradle-user-home/
